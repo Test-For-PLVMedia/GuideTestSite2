@@ -1,5 +1,8 @@
-The PLV Media Manual - Ethan Harvey
-===================================
+The PLV Media Manual
+====================
+
+Ethan Harvey
+============
 
 Welcome to the PLV Media Manual, a guide to all things media!
 
