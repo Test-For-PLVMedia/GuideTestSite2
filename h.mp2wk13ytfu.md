@@ -121,12 +121,12 @@ Top Section
 DMP8VIDEO-1-mainLayout:topsection
 
   
-[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1646618446922849&usg=AOvVaw3dVdSrudqJbNwah65izV7e)
+[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1646633471869005&usg=AOvVaw3GM4TwadnVvFtLubIYQINI)
 
 Sound System
 ------------
 
-[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1646618446924332&usg=AOvVaw1bPSrWRULFiScsDqjMKL1Y)
+[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1646633471869395&usg=AOvVaw2mal-7Jt7q_cmI6vIcCieh)
 
 Event Prep
 ----------
@@ -302,10 +302,10 @@ Operation
 *   During this same time you can knock out the audio portion too, in the both you will see a giant audio mixer on the cabinets, first you will turn on the white power strip that is on the cabinets to the far left of the booth if you are facing the field, next you will turn on the black power strip that is inside of the mixer it is also on the left side of the mixer if you are facing the field, then turn the mixer on with the power switch that is on the front of the mixer, next turn on all the knobs that have labels on the front to the grey dot, and finally there should be a power button next to both a wireless mic, and i'm pretty sure the other one is the Referee mic. \[add diagram\]
 *   After that return to our booth and inside there will be a computer. Use your school login to get in, after that logs you in, you should see a couple of icons \[add picture\], the ones we will focus on are display studio, and a folder icon called Content Library. If, once you log in, the wallpaper is blue, something isn’t connected. If it’s black, you should be good to go. Of course there are exceptions to this.
 *   When you click on content library it might bring you to a login page the username:vnet and the password:bowdoin-upgrade
-*   To access the PLV Media server go to the search bar in the lower left corner of the screen and type in \\\\media
+*   To access the PLV Media server go to the search bar in the lower left corner of the screen and type in \\\\media
 *   Then it will bring you to the videoboards server, anything that goes up on the board should get put into a folder in the Content Library folder, DO NOT just pull things from our server into the display studio.
 *   Before every game, stat graphics are updated from the team’s last game, and you need to update them. Do this by going into the background playlist button, delete all of the old stats from last week, and replace them with the current stats. This will take forever to do one at a time, so I’d recommend moving them all at once by selecting the first stat, then, holding down shift, select the last stat.
-*   How to make buttons in display studio
+*   How to make buttons in display studio:
 
 *   First, make sure you’re in the right display studio!! Monarchs and Titans football games, TMI, and other events, should be in different places.
 *   Most of the buttons should already be made for you, you just need to update them. To do this- using a player’s gif button as an example- right click on the button, hit “4”, hit the minus sign to delete their current gif, and hit the “add” button. This opens up the content library, so you can navigate to which graphic you want. You’ll use this way of replacing graphics mainly for player gifs, featured ad sponsors, and halftime stuff (bands, dance, cheer, baton teams, and anything else that may be happening during halftime). Adding graphics works the same way. You’ll mainly add graphics to existing buttons for stats (see above) and sponsor blurbs.
