@@ -51,7 +51,7 @@ HEX codes use RGB (Red, Green, and Blue) to color objects. RGB uses the primary 
 What if I need to use other colors?
 -----------------------------------
 
-I’m not going into color theory right now you can Google that yourself. However, I will recommend you use this—[coolors.co](https://www.google.com/url?q=https://coolors.co/&sa=D&source=editors&ust=1646550169236741&usg=AOvVaw1OLC2eJEtlDAKCGYDOpQsW). It is something you can use to create color palettes, which will in turn help your design look better. Here are two examples, with and without using a color palette.
+I’m not going into color theory right now you can Google that yourself. However, I will recommend you use this—[coolors.co](https://www.google.com/url?q=https://coolors.co/&sa=D&source=editors&ust=1646618446665183&usg=AOvVaw0BSKoxz8j9vX8feVb-lF6D). It is something you can use to create color palettes, which will in turn help your design look better. Here are two examples, with and without using a color palette.
 
 ### Without
 
@@ -71,9 +71,9 @@ I can talk about color forever, but this is essentially all you need to know to 
 
 If you want to learn more, start here:
 
-*   [99design](https://www.google.com/url?q=https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/&sa=D&source=editors&ust=1646550169238011&usg=AOvVaw3TsvZ_voFmKQ0Q-WI6ZIBJ)
-*   [BlackBearDesign](https://www.google.com/url?q=https://www.blackbeardesign.com/blog/graphic-designers/understanding-color-the-meaning-of-color/&sa=D&source=editors&ust=1646550169238245&usg=AOvVaw1GmLpbMHJIbRXKSTsqkGfX)
-*   [Beginning Graphic Design](https://www.google.com/url?q=https://edu.gcfglobal.org/en/beginning-graphic-design/color/1/&sa=D&source=editors&ust=1646550169238505&usg=AOvVaw37bicZJO14WmUKMF_4cBOZ)
+*   [99design](https://www.google.com/url?q=https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/&sa=D&source=editors&ust=1646618446668270&usg=AOvVaw1oANarpXu0r-mSklIAXRB4)
+*   [BlackBearDesign](https://www.google.com/url?q=https://www.blackbeardesign.com/blog/graphic-designers/understanding-color-the-meaning-of-color/&sa=D&source=editors&ust=1646618446669191&usg=AOvVaw2pQYSf9cG5kJyoRe7uklVH)
+*   [Beginning Graphic Design](https://www.google.com/url?q=https://edu.gcfglobal.org/en/beginning-graphic-design/color/1/&sa=D&source=editors&ust=1646618446669783&usg=AOvVaw1-jLZPg-T5co1ux-Oi-W2Y)
 
 Illustrator 
 ------------
@@ -124,7 +124,7 @@ Here are the tools that we use the most:
 
 ![](images/image69.png)The direct selection tool (A): Essentially the selection tool, but it can be used to isolate certain paths objects even if they're within a group.
 
-![](images/image45.png)The pen tool (P): Used to make lines and create and edit anchor paths and objects. I found this confusing to learn so I would suggest playing the [Bezier Game](https://www.google.com/url?q=https://bezier.method.ac/&sa=D&source=editors&ust=1646550169241305&usg=AOvVaw0WQgguz-bCHl7mbB5cPH03) to learn how to use the pen tool. It’s easier with the pen tool to make technical and precise drawings once you really get it down. You can adjust the fill and stroke if necessary. Much better for what we do.
+![](images/image45.png)The pen tool (P): Used to make lines and create and edit anchor paths and objects. I found this confusing to learn so I would suggest playing the [Bezier Game](https://www.google.com/url?q=https://bezier.method.ac/&sa=D&source=editors&ust=1646618446679163&usg=AOvVaw3oOW6Zbk5y2rIvymal611y) to learn how to use the pen tool. It’s easier with the pen tool to make technical and precise drawings once you really get it down. You can adjust the fill and stroke if necessary. Much better for what we do.
 
 ![](images/image80.png)The curvature tool (Shift + \`  ): Much like the pen tool, the curvature tool is used to make and edit anchor paths and objects. The difference between the tool is this lacks the ability to be as precise as the pen tool. However, it is much easier to use, and much better for creative work. With the curvature tool, you click the tool once for a curve and once for a point. You can also tell what each point is by checking to see if there’s a dot in the middle of the point. If there is, it’s a pointed edge. Like the pen tool, you can adjust the fill and stroke if necessary. Not necessarily the best for what we’ll do unless you need to get creative.
 
@@ -170,6 +170,6 @@ There isn’t as wide of a variety when it comes to what you can do when making 
 Blender
 -------
 
-Want to really learn blender? Take a weekend and do the [donut tutorial](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnIoXOplUvAw%26list%3DPLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD&sa=D&source=editors&ust=1646550169243573&usg=AOvVaw1NmgjZmPWnqaTx-uPxA4jx).
+Want to really learn blender? Take a weekend and do the [donut tutorial](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnIoXOplUvAw%26list%3DPLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD&sa=D&source=editors&ust=1646618446686973&usg=AOvVaw1QR0xa8eELB4XGSrnUHg1_).
 
 * * *
