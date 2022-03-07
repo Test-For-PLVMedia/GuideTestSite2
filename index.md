@@ -1,10 +1,10 @@
 The PLV Media Manual
 ====================
 
-Ethan Harvey
-============
+Ethan Harvey, et al.
+====================
 
-Welcome to the PLV Media Manual, a guide to all things media!
+Welcome to the PLV Media Manual, a guide to all things Media Academy! Click one of the links below to be taken to a section.
 
 Quick Links
 ===========
