@@ -24,7 +24,7 @@ Colors
 *   Titan Blue HEX: #003466
 *   Titan Grey HEX: #c9c9c9
 
-### [Other Schools’ Colors and Mascots (Class A)](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1646695926089851&usg=AOvVaw3XpI4-w64TFmbKxlmZbk85)
+### [Other Schools’ Colors and Mascots (Class A)](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1646768791420307&usg=AOvVaw3wkFmKsSWTR1DLs_4QwrHa)
 
 Unless specified otherwise, these are pulled from the team’s maxpreps page, and beyond that do not represent “official” colors/style guides. Still should be more than good enough for 90% of projects.
 

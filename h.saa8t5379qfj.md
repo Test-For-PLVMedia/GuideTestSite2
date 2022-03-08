@@ -223,8 +223,8 @@ This section is on creating templates, setting stuff up, etc.—technical detail
 
 \[TODO:\]
 
-Titler
-------
+Titler[\[j\]](#cmnt10)[\[k\]](#cmnt11)
+--------------------------------------
 
 While physically a part of Wirecast, TitlerLive is a beast of its own.
 
@@ -232,12 +232,12 @@ While physically a part of Wirecast, TitlerLive is a beast of its own.
     *   Edit title design
     *   Creating a scoreboard
     *   Troubleshooting in titler
-*   Scoreboard Controller
+*   Scoreboard Controller[\[l\]](#cmnt12)
 
 Switcher (ATEM TV Studio Pro 4K)
 --------------------------------
 
-If you want operational instruction, skip to the [operating](#h.a0o793m13mrk) section. These beginning sections deal primarily with configuration. I recommend taking a look at the [loading](h.saa8t5379qfj#loading-and-saving-switcher-configuration) instructions first though, so that you can load in the correct settings.
+If you want operational instruction, skip to the [operating](#h.a0o793m13mrk) [\[m\]](#cmnt13)section. These beginning sections deal primarily with configuration. I recommend taking a look at the [loading](h.saa8t5379qfj#loading-and-saving-switcher-configuration) instructions first though, so that you can load in the correct settings.
 
 ### Network setup and configuration
 
@@ -253,19 +253,19 @@ Then, with the laptop also on the PLCS Secure network, you can launch ATEM Softw
 
 You can also configure this from the control surface menu by going to the settings tab. (Menu button on top left, scroll using the wheel next to the screen, click “set” to select the settings tab, then scroll down to the bottom of the menu.)
 
-[Video Example.](https://www.google.com/url?q=https://youtu.be/5j-ljKuCL10&sa=D&source=editors&ust=1646695926169087&usg=AOvVaw1NpN3u6rq-PNZaX6q6EuLd)
+[Video Example.](https://www.google.com/url?q=https://youtu.be/5j-ljKuCL10&sa=D&source=editors&ust=1646768791592412&usg=AOvVaw3Habq6lKeuAfyEBD3ypt0Z)
 
 ### Loading and Saving Switcher Configuration
 
 Most of the time, you only need to do this if you are planning on using a game-specific replay graphic. If you aren’t, you can likely ignore this and move on with other setup.
 
-To load a configuration, first, ensure you are connected both to the [switcher](h.saa8t5379qfj#network-setup-and-configuration) and to the server. Go to the menu bar, select “File -> Restore” and navigate to the Switcher folder in the server. Click on one of the setup folders (i.e. Basketball, Volleyball, etc.), click on the .xml file, and click Restore.
+To load a configuration, first, ensure you are connected both to the [switcher](h.saa8t5379qfj#network-setup-and-configuration) and to the server[\[n\]](#cmnt14). Go to the menu bar, select “File -> Restore” and navigate to the Switcher folder in the server. Click on one of the setup folders (i.e. Basketball, Volleyball, etc.), click on the .xml file, and click Restore.
 
 Path: (PLV Media -> Switcher -> \[Game\] -> example.xml)
 
 NOTE: It may take a few minutes for all media files to fully load. Be patient!
 
-[Video example of loading](https://www.google.com/url?q=https://youtu.be/YUu5kEANvd4&sa=D&source=editors&ust=1646695926170093&usg=AOvVaw0cCnPlmm1gG4W2UHGrmmmx)
+[Video example of loading](https://www.google.com/url?q=https://youtu.be/YUu5kEANvd4&sa=D&source=editors&ust=1646768791596103&usg=AOvVaw3SHuM980dmtKD6SDyTkZIj)
 
 To save, simply click “File -> Save As,” and select the location to save it in. You will be presented with options of what to save, and unless if you have a specific purpose for doing otherwise, just make sure all are selected. I would recommend removing old configuration files to avoid confusion, but it is up to you what is best in your situation (at the very least, store new configurations in a sub-folder). It will take a minute or two to save.
 
@@ -307,7 +307,7 @@ To edit a macro, we have to edit our configuration file as a whole. First, [save
 
 <Op id="MacroSleep" frames="\[NUMBER OF FRAMES\]"/>
 
-You can add this in or edit the frame number at leisure. For more advanced xml editing, you can find some community documentation [here](https://www.google.com/url?q=https://github.com/imorrish/ATEMConfigSnippets&sa=D&source=editors&ust=1646695926172162&usg=AOvVaw0OUhT8r5-4cb9pXBw7391w).
+You can add this in or edit the frame number at leisure. For more advanced xml editing, you can find some community documentation [here](https://www.google.com/url?q=https://github.com/imorrish/ATEMConfigSnippets&sa=D&source=editors&ust=1646768791602764&usg=AOvVaw11lu9GuEMH4SzCqpiee8fy).
 
 Once you [load the config back in](h.saa8t5379qfj#loading-and-saving-switcher-configuration), your macro will be edited.
 
@@ -317,7 +317,7 @@ Once you [load the config back in](h.saa8t5379qfj#loading-and-saving-switcher-co
 
 ### Operation
 
-[\[Playlist with all operation video examples\]](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLDdTRHGk2-VHekl2vE2OTNvZ2PZ_qt7cS&sa=D&source=editors&ust=1646695926172791&usg=AOvVaw1tIWJMSe_siN1oeiUI_ZqI)
+[\[Playlist with all operation video examples\]](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLDdTRHGk2-VHekl2vE2OTNvZ2PZ_qt7cS&sa=D&source=editors&ust=1646768791604186&usg=AOvVaw2QWjtmFETqFePDHmY9hUmq)
 
 First, ensure you have the proper switcher configuration [loaded in](h.saa8t5379qfj#loading-and-saving-switcher-configuration) for the event, and all cables are connected properly. You should have power and ethernet connected first. Use the camera output patch panel (the top one) and connect all your cameras and replay (Replay goes into CAM6 on switcher).
 
@@ -333,17 +333,17 @@ The red row is the “Program” row - it dictates what’s directly being outpu
 
 It’s fairly self-explanatory, the button labeled “1” will be Camera 1, “2” is Cam 2, etc. All other mappings can be edited and found in [configuring routing](h.saa8t5379qfj#configuring-switcher-multiview--routing). We usually have replay mapped to “Camera 6”.
 
-[Video example for program row.](https://www.google.com/url?q=https://youtu.be/pJGsH0jxYYk&sa=D&source=editors&ust=1646695926173715&usg=AOvVaw1SULxdCo9m8PBLnp-N-fdG)
+[Video example for program row.](https://www.google.com/url?q=https://youtu.be/pJGsH0jxYYk&sa=D&source=editors&ust=1646768791606502&usg=AOvVaw2JlcRUOrMeQSLaZEfDIdry)
 
 If you make a mistake, it goes live immediately. If you need to quickly cut away from an injury or are just setting stuff up you may use this row, but for the most part you’re going to want to use the preview row.
 
-With the preview row, you get a few more options. Once you click one of the buttons to view a camera, it comes up larger on the multiview for you to decide if it's worth cutting to. Once you decide to cut to a view, you can push it to live in a few ways. The most basic way, and the way you’re going to use most often, is the cut button. Pretty self-explanatory, it just cuts to whatever you have in preview.
+With the preview row, you get a few more options. Once you click one of the buttons to view a camera, it comes up larger on the multiview for you to decide if it's worth cutting to. Once you decide to cut to a view, you can push it to live in a few ways. The most basic way, and the way you’re going to use most often, is the cut button. Pretty self-explanatory, it just cuts to whatever you have in preview.[\[o\]](#cmnt15)
 
 If you want to get more fancy, we have a few options. If you want to fade, you can either click “auto” for a smooth fade or control the transition yourself using the slider bar.
 
-[Cut Example.](https://www.google.com/url?q=https://youtu.be/Rx-1buJKa1Y&sa=D&source=editors&ust=1646695926174185&usg=AOvVaw1CT4USmgkRSFIoCddTQSnw)
+[Cut Example.](https://www.google.com/url?q=https://youtu.be/Rx-1buJKa1Y&sa=D&source=editors&ust=1646768791607674&usg=AOvVaw0hcca8nb-IabMqWPaL2LQg)
 
-[Fade Example](https://www.google.com/url?q=https://youtu.be/IHnbdENvH9c&sa=D&source=editors&ust=1646695926174382&usg=AOvVaw2dSGx3lO9n9LIyvp1X5iPL)
+[Fade Example](https://www.google.com/url?q=https://youtu.be/IHnbdENvH9c&sa=D&source=editors&ust=1646768791608059&usg=AOvVaw2_735obSHszL4fnvcvMVUv)
 
 We use hard cuts for:
 
@@ -358,7 +358,7 @@ We use fades for:
 
 Assuming that you either are using a [loaded in](h.saa8t5379qfj#loading-and-saving-switcher-configuration) setup with a macro, or you’ve [created](h.saa8t5379qfj#creating-and-using-macros) a macro, all you have to do to trigger it from the control surface is hit the “macro” key (located at the rightmost side of the row above the program keys), and then hit its corresponding number. (On the row directly below that).
 
-[Macro Example.](https://www.google.com/url?q=https://youtu.be/NahRnWEBVew&sa=D&source=editors&ust=1646695926175161&usg=AOvVaw1o3ZPN152nNYdY-GW1AKsk) (The zooming in on screens indicates that you don’t have to switch to the replay camera manually—it switches for you from whatever camera you’re already on.)
+[Macro Example.](https://www.google.com/url?q=https://youtu.be/NahRnWEBVew&sa=D&source=editors&ust=1646768791609996&usg=AOvVaw1_hk2rHcTUddVNdHU_6jL1) (The zooming in on screens indicates that you don’t have to switch to the replay camera manually—it switches for you from whatever camera you’re already on.)
 
 Macro 1 will usually be the replay animation, but your mileage may vary depending on what you’re streaming. Become familiar with the specific setup BEFORE the stream begins.
 

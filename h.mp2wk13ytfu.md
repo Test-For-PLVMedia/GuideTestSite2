@@ -96,12 +96,12 @@ Top Section
 DMP8VIDEO-1-mainLayout:topsection
 
   
-[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1646695926200454&usg=AOvVaw00Qp5yLima3Xb2XeNGv4_i)
+[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1646768791673703&usg=AOvVaw2KVSukJpIzFPtDwsfJTjQT)
 
 Sound System
 ------------
 
-[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1646695926200845&usg=AOvVaw19BeEBcyVXyYVpz0xq5aVM)
+[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1646768791674577&usg=AOvVaw0BN0J711Abt53h5NZvmFgo)[\[p\]](#cmnt16)[\[q\]](#cmnt17)
 
 Event Prep
 ----------
@@ -117,12 +117,6 @@ At the beginning of the football season there are many things to do that can be 
 *   Email setup
     
     *   Being the video board producer means that over your time in this role you will make hundreds of emails to important people and it is key that emails are properly written
-        
-        *   When writing an email always have some sort of introductory statement at the top whether that be something like Good Afternoon, Good Morning, or something more specific like Hello Mr. Hurst or just Mr. Hurst depending on the information in the message
-        *   If this is your first email to someone write a introduction about who you are and the reason why you are contacting them
-        *   Make sure you use correct spelling and grammar, they will not point out your mistakes, but it is a good habit to make sure things are properly typed and worded
-        *   Always CC Mrs. Hoch on each email as she will be able to provide assistance in situations where you might not know the answer
-        
     
     *   If needed ask Mrs. Hoch for the contact list and she will share the document with you if necessary
     *   Throughout the season one of your main jobs is to keep in contact with a whole bunch of people such as, sponsors, the foundation, district communications office, district IT members, athletic offices, band directors, and coaches
@@ -132,7 +126,7 @@ At the beginning of the football season there are many things to do that can be 
             *   You will also contact them throughout the season to have them check over the script and make sure you have the right ad for them before each game
             *   Lastly at the end of the season you will be required to put together a sponsor report (See Sponsor Report) to send or discuss with the members of the foundation (uncertain about meeting but for sure email)
         
-        *   Sponsors - this will not be something you will have to do yearly the foundation will typically handle this for us, but if we are tasked to film new ads for some of the sponsors then you will be in constant contact with them throughout the entirety of the process
+        *   Sponsors - this will not be something you will have to do yearly the foundation will typically handle this for us, but if we are tasked to film new ads for some of the sponsors then you will be in constant contact with them throughout the entirety of the process [\[r\]](#cmnt18)
             *   As of March, 2021 the current sponsors are as follows: American Family Insurance, Gina V Physical Therapy, The Good Life, H & H, Hyvee, Jensen Tire, Midlands Place, Pinnacle Bank (Always the Monarch Titan Game Sponsor), Premier Family Medicine, Premier Waste Solutions, and the reader sponsor which is included in the script is mama’s pizza
             *   \[add info on duration and sponsors contracts\] \[attach image of sheet\]
         
@@ -190,6 +184,11 @@ At the beginning of the football season there are many things to do that can be 
     *   Make Sure this at least gets done for all the starters, but if possible this should be done for all the players with stats on the team
     *   Just make sure in the end that they get proofed before the game and that they are accurate to the best of your knowledge as sometimes the stats for the week won't get put in til a little later in the week like on a wednesday.
     *   Don’t be afraid to email or talk to the coaches on when the stats will be updated as this can sometimes help remind them that it is also on them to make sure the stats get done each week.
+
+*   When writing an email always have some sort of introductory statement at the top whether that be something like Good Afternoon, Good Morning, or something more specific like Hello Mr. Hurst or just Mr. Hurst depending on the information in the message
+*   If this is your first email to someone write a introduction about who you are and the reason why you are contacting them
+*   Make sure you use correct spelling and grammar, they will not point out your mistakes, but it is a good habit to make sure things are properly typed and worded
+*   Always CC Mrs. Hoch on each email as she will be able to provide assistance in situations where you might not know the answer
 
 #### Videos
 
