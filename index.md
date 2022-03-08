@@ -6,6 +6,8 @@ Ethan Harvey, et al.
 
 Welcome to the PLV Media Manual, a guide to all things Media Academy! Click one of the links below to be taken to a section.
 
+_Site Last Updated: Mon Mar 07 2022 23:50:59 GMT-0600 (Central Standard Time)_
+
 Quick Links
 ===========
 
