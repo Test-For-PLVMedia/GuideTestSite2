@@ -4,71 +4,45 @@ After Effects
 Rotoing a video (Glamour Shot 2021 cleanup)
 -------------------------------------------
 
-1.  open Media Encoder
-2.  open After Effects
-
-1.  new project
-2.  new composition
-3.  copy file name from GIF to Composition Name
-4.  set to 1920x1080
-5.  set frame rate to 59.94
-6.  set resolution to full
-7.  OK
-
-3.  File > import > file
-
-1.  choose cut-down GIF > OPEN
-
-4.  in Project window - drag video file (not the composition) down to timeline window
-5.  in Timeline > R-click > rename “background”
-6.  in Timeline > CMD+D to duplicate layer > rename ROTO
-7.  with ROTO layer selected go up to toolbar and click on ROTO tool (dude + paintbrush)
-
-1.  double click on ROTO layer in Timeline with ROTO tool selected
-2.  draw a rough outline inside the player’s edges = green line
-3.  improve on pink ROTO line by adding to it = green line
-4.  improve on pink ROTO line by removing area = ALT+click = red line
-5.  once player outline is pink hit SPACE and watch for errors
-
-1.  make sure jersey and all of the # are selected
-2.  use PAGE UP and PAGE DOWN to move frame by frame to check details
-
-8.  choose the COMPOSITION window in the viewer window (have had ROTO window selected)
-9.  in Timeline > set background layer to 3D (check in cube box)
-
-1.  red/green/blue XYZ axes should appear in composition window
-
-1.  if you don’t see the axes toggle switches/modes button at bottom of screen
-
-10.  in menu bar > LAYER > NEW > LIGHT
-
-1.  light type = parallel
-2.  intensity = 225%
-3.  change color to correct hex code
-4.  click OK
-
-11.  in Timeline window > select parallel light layer
-
-1.  click and hold on name and drag between ROTO layer and background layer
-
-12.  use HOME to go to beginning of composition
-
-1.  SPACE to watch again
-2.  make more detail changes
-
-13.  watch again at full speed
-14.  find end of timeline and copy timecode into
-
-1.  Composition > Settings > Duration
-
-15.  Composition > Add to Media Encoder Queue
-
-1.  change file name from xxxxxxxx\_GIF to xxxxxxxx\_ROTO
-
-1.  save to correct location
-
-16.  got to Media Encoder and start the render queue
-17.  File > Save As > Rotod GIFS folder
+*   open Media Encoder
+*   open After Effects
+    *   new project
+    *   new composition
+    *   copy file name from GIF to Composition Name
+    *   set to 1920x1080
+    *   set frame rate to 59.94
+    *   set resolution to full
+    *   OK
+*   File > import > file
+    *   choose cut-down GIF > OPEN
+*   in Project window - drag video file (not the composition) down to timeline window
+*   in Timeline > CMD+D to duplicate layer > rename ROTO
+    *   double click on ROTO layer in Timeline with ROTO tool selected
+    *   draw a rough outline inside the player’s edges = green line
+    *   improve on pink ROTO line by adding to it = green line
+    *   improve on pink ROTO line by removing area = ALT+click = red line
+    *   once player outline is pink hit SPACE and watch for errors
+        *   make sure jersey and all of the # are selected
+        *   use PAGE UP and PAGE DOWN to move frame by frame to check details
+*   choose the COMPOSITION window in the viewer window (have had ROTO window selected)
+    *   red/green/blue XYZ axes should appear in composition window
+        *   if you don’t see the axes toggle switches/modes button at bottom of screen
+*   in menu bar > LAYER > NEW > LIGHT
+    *   light type = parallel
+    *   intensity = 225%
+    *   change color to correct hex code
+    *   click OK
+*   in Timeline window > select parallel light layer
+    *   click and hold on name and drag between ROTO layer and background layer
+*   use HOME to go to beginning of composition
+    *   SPACE to watch again
+    *   make more detail changes
+*   watch again at full speed
+    *   Composition > Settings > Duration
+*   Composition > Add to Media Encoder Queue
+    *   change file name from xxxxxxxx\_GIF to xxxxxxxx\_ROTO
+        *   save to correct location
+*   got to Media Encoder and start the render queue
 
 Beginner
 --------

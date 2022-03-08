@@ -33,174 +33,114 @@ If a color is labeled with “(TFL)” it indicates that the color was taken fro
 Colors all in HEX format.
 
 *   Bellevue East Chieftains
-
-*   Purple: #4E1F91
-*   White: #FFFFFF
-
+    *   Purple: #4E1F91
+    *   White: #FFFFFF
 *   Bellevue West Thunderbirds
-
-*   Purple: #4B0082
-*   Gold: #FFD700
-*   White: #FFFFFF
-
+    *   Purple: #4B0082
+    *   Gold: #FFD700
+    *   White: #FFFFFF
 *   Bennington Badgers
-
-*   Blue: #000080
-*   White: #FFFFFF
-
+    *   Blue: #000080
+    *   White: #FFFFFF
 *   Boys Town Cowboys
-
-*   Blue: #0000FF
-*   Darker Blue (TFL): #0D37A6
-*   White: #FFFFFF
-
+    *   Blue: #0000FF
+    *   Darker Blue (TFL): #0D37A6
+    *   White: #FFFFFF
 *   Creighton Prep Junior Jays
-
-*   Blue: #0000FF
-*   Darker Blue (TFL): #0039d0
-*   White: #FFFFFF
-
+    *   Blue: #0000FF
+    *   Darker Blue (TFL): #0039d0
+    *   White: #FFFFFF
 *   Elkhorn Antlers
-
-*   Red: #FF0000
-*   Gray (TFL): #919594
-*   White: #FFFFFF
-
+    *   Red: #FF0000
+    *   Gray (TFL): #919594
+    *   White: #FFFFFF
 *   Elkhorn South Storm
-
-*   Gray: #919594
-*   Blue: #003A63
-*   Gold/Yellow: #8F7700
-*   White: #FFFFFF
-*   Tan (TFL): #A48E5C
-
+    *   Gray: #919594
+    *   Blue: #003A63
+    *   Gold/Yellow: #8F7700
+    *   White: #FFFFFF
+    *   Tan (TFL): #A48E5C
 *   Fort Calhoun Pioneers
-
-*   Orange: #FF7F00
-*   Black: #000000
-
+    *   Orange: #FF7F00
+    *   Black: #000000
 *   Fremont Tigers:
-
-*   Yellow: #FFD700
-*   Black: #000000
-*   Brown/Orange (TFL): #B07328
-
+    *   Yellow: #FFD700
+    *   Black: #000000
+    *   Brown/Orange (TFL): #B07328
 *   Grand Island Islanders
-
-*   Purple: #4B0082
-*   Yellow: #FFD700
-
+    *   Purple: #4B0082
+    *   Yellow: #FFD700
 *   Gretna Dragons
-
-*   Green: #008000
-*   Yellow: #FFD700
-*   White: #FFFFFF
-
+    *   Green: #008000
+    *   Yellow: #FFD700
+    *   White: #FFFFFF
 *   Hasting Tigers
-
-*   Orange: #FF7F00
-*   Black: #000000
-
+    *   Orange: #FF7F00
+    *   Black: #000000
 *   Kearney Bearcats:
-
-*   Blue: #0000FF
-*   Yellow: #FFD700
-*   Dark Blue (TFL): #010254
-
+    *   Blue: #0000FF
+    *   Yellow: #FFD700
+    *   Dark Blue (TFL): #010254
 *   Lincoln East Spartans
-
-*   Blue: #0000FF
-*   White: #FFFFFF
-*   Lighter Blue (TFL): #365AAC
-
+    *   Blue: #0000FF
+    *   White: #FFFFFF
+    *   Lighter Blue (TFL): #365AAC
 *   Lincoln High
-
-*   Red: #DA001E
-*   Black: #00000
-
+    *   Red: #DA001E
+    *   Black: #00000
+    
 *   Lincoln North Star Navigators
-
-*   Blue: #000070
-*   Maroon: #880030
-
+    *   Blue: #000070
+    *   Maroon: #880030
 *   Lincoln Northeast Rockets
-
-*   Gray: #0C1E0D
-
+    *   Gray: #0C1E0D
 *   Lincoln Pius X Thunderbolts
-
-*   Green: #046A38
-*   Gold: #FFD100
-
+    *   Green: #046A38
+    *   Gold: #FFD100
 *   Lincoln Southeast Knights
-
-*   Gold: #A8996E
-*   Black: #000000
-
+    *   Gold: #A8996E
+    *   Black: #000000
 *   Lincoln Southwest Silver Hawks
-
-*   Green: #00713D
-*   Silver: #D8D9D8
-
+    *   Green: #00713D
+    *   Silver: #D8D9D8
 *   Millard North Mustangs
-
-*   Green: #00817
-*   Blue: #003899
-
+    *   Green: #00817
+    *   Blue: #003899
 *   Millard South Patriots
-
-*   Red: #FB0009
-*   Red: #E20101
-*   Blue: 0101AE
-
+    *   Red: #FB0009
+    *   Red: #E20101
+    *   Blue: 0101AE
 *   Millard West Wildcats
-
-*   Green: #277000
-*   Norfolk Panthers
-*   Maroon: #52131E
-*   Grey: #A1A2A4
-*   Maroon: #4D151F
-
+    *   Green: #277000
+    *   Norfolk Panthers
+    *   Maroon: #52131E
+    *   Grey: #A1A2A4
+    *   Maroon: #4D151F
 *   North Platte Bulldogs
-
-*   Blue: #0234D5
-*   Gold: #FBCA0D
-
+    *   Blue: #0234D5
+    *   Gold: #FBCA0D
 *   Omaha Benson Bunnies
-
-*   Green: #6DB33F
-
+    *   Green: #6DB33F
 *   Omaha Bryan
-
-*   Green: #C4AE00
-*   Green: #004601
-*   Gold: #C4AE00
-*   Green: #004705
-
+    *   Green: #C4AE00
+    *   Green: #004601
+    *   Gold: #C4AE00
+    *   Green: #004705
 *   \[TODO: This Down\]
-*   Omaha Burke
 *   Omaha Central Eagles
-*   Omaha Marian Crusaders
 *   Omaha North Vikings
-*   Omaha Northwest Huskies
 *   Omaha Skutt Skyhawks
-*   Omaha South Packers
 *   Omaha Westside Warriors
-*   Ralston Rams
 *   Scottsbluff Bearcats Red Paw
-*   South Sioux City Cardinals
 
 Fonts
 -----
 
 *   Our Standard Fonts:
-
-*   \[TODO\]
-
+    *   \[TODO\]
 *   PLV Media Logo Fonts
-
-*   The main “PLV” is in “Webnar” - You can find the .otf in Fonts -> Webnar-Bold
-*   The “MEDIA” is in RBNo2Light - You can find the .otf in Fonts -> RBNo2Light
+    *   The main “PLV” is in “Webnar” - You can find the .otf in Fonts -> Webnar-Bold
+    *   The “MEDIA” is in RBNo2Light - You can find the .otf in Fonts -> RBNo2Light
 
 Logos
 -----

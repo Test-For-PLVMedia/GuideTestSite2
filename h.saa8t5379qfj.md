@@ -17,36 +17,25 @@ It’s up to the stream producer how they want to set it up, but effectively jus
 In total, you need to wire up:
 
 *   UPS
-
-*   It’s the main power cable coming out the back of the MOAC. Plug it into the wall.
-
+    *   It’s the main power cable coming out the back of the MOAC. Plug it into the wall.
 *   [Network](h.saa8t5379qfj#network-switch--access-point) (Link to images and further explanation)
-
-*   Taking the building’s ethernet from a wall, plug it into the WAN1 port on the front.
-
+    *   Taking the building’s ethernet from a wall, plug it into the WAN1 port on the front.
 *   Wirecast
-
-*   HDMI Connections are on the computer patch panel, marked in yellow as “WC”
-*   USB (mouse and keyboard) are marked on the computer patch panel.
-*   All video connections are handled through the hub. No setup or work needed.
-
+    *   HDMI Connections are on the computer patch panel, marked in yellow as “WC”
+    *   USB (mouse and keyboard) are marked on the computer patch panel.
+    *   All video connections are handled through the hub. No setup or work needed.
 *   Replay
-
-*   HDMI Connections are on the computer patch panel, marked in yellow as “RPLY”
-*   USB (mouse and keyboard) are marked on the computer patch panel.
-*   The Control Surface also plugs in through USB. (This handles power & data)
-*   All video connections are handled through the hub. No setup or work needed.
-
+    *   HDMI Connections are on the computer patch panel, marked in yellow as “RPLY”
+    *   USB (mouse and keyboard) are marked on the computer patch panel.
+    *   The Control Surface also plugs in through USB. (This handles power & data)
+    *   All video connections are handled through the hub. No setup or work needed.
 *   Switcher
-
-*   The control surface uses the same cord as monitors do for power.
-*   HDMI is onboard the control surface, plug it directly into the monitor.
-*   Use the SDI coming from the [output patch panel](#id.xptcmhybmajf) to plug in cameras.
-*   Switcher control surface’s Program Out goes to the input patch panel’s “SW IN”
-
+    *   The control surface uses the same cord as monitors do for power.
+    *   HDMI is onboard the control surface, plug it directly into the monitor.
+    *   Use the SDI coming from the [output patch panel](#id.xptcmhybmajf) to plug in cameras.
+    *   Switcher control surface’s Program Out goes to the input patch panel’s “SW IN”
 *   [X32](h.saa8t5379qfj#setup) (Audio, click link for detailed setup)
-
-*   Connect audio to the back of the MOAC, using the audio patch panel.
+    *   Connect audio to the back of the MOAC, using the audio patch panel.
 
 You’ll also need to [turn on the UPS](h.saa8t5379qfj#turning-on).
 
@@ -59,24 +48,16 @@ Once everything is plugged in, ensure that everything else (replay, wirecast, X3
 Mainly, you’ve got:
 
 *   Switcher + Laptop
-
-*   [Load in the Configuration](h.saa8t5379qfj#loading-and-saving-switcher-configuration) (if needed—in some cases you won’t have to do this)
-
-*   Only do this if you are using a special replay animation (which you should be doing at most sports matches)
-
+    *   [Load in the Configuration](h.saa8t5379qfj#loading-and-saving-switcher-configuration) (if needed—in some cases you won’t have to do this)
+        *   Only do this if you are using a special replay animation (which you should be doing at most sports matches)
 *   Wirecast
-
-*   [Wirecast Setup](h.k6vpdgk5q6kp#gfxwirecast)
-*   [Restream.io and output settings](h.saa8t5379qfj#restreamio)
-*   [Titler setup](h.saa8t5379qfj#titler)
-
+    *   [Wirecast Setup](h.k6vpdgk5q6kp#gfxwirecast)
+    *   [Restream.io and output settings](h.saa8t5379qfj#restreamio)
+    *   [Titler setup](h.saa8t5379qfj#titler)
 *   Replay
-
-*   [Setting up Replay](h.saa8t5379qfj#setup---creating-a-replay-file)
-
+    *   [Setting up Replay](h.saa8t5379qfj#setup---creating-a-replay-file)
 *   HyperDeck
-
-*   [Start Recording](h.saa8t5379qfj#start-a-recording)
+    *   [Start Recording](h.saa8t5379qfj#start-a-recording)
 
 General Layout and Case Setup
 -----------------------------
@@ -86,17 +67,12 @@ General Layout and Case Setup
 Going from top to bottom, the MOAC is made up of:
 
 *   {Top Shelf}
-
-*   Computer Patch Panel (HDMI, USB, etc.)
-*   Power Bar
-*   [Hyperdeck](h.saa8t5379qfj#hyperdeck)
-
+    *   Computer Patch Panel (HDMI, USB, etc.)
+    *   Power Bar
+    *   [Hyperdeck](h.saa8t5379qfj#hyperdeck)
 *   [The Hub](h.saa8t5379qfj#the-hub)
-*   [X32](h.saa8t5379qfj#x32-audio-rack)
 *   [Wirecast (+ Graphics)](h.saa8t5379qfj#wirecast)
-*   [Network Switch](h.saa8t5379qfj#network-switch--access-point)
 *   [Replay](h.saa8t5379qfj#replay-3play-deck)
-*   Drawer
 *   [UPS (Uninterruptible Power Supply)](h.saa8t5379qfj#uninterruptible-power-supply-ups)
 
 On the backside, all you need to worry about are the [patch panels](h.saa8t5379qfj#patch-panels). ![](images/image40.png)
@@ -110,15 +86,11 @@ The bottom patch panel is the Audio Input \[aka “Audio Patch Panel”\]. This 
 Peripheral to the MOAC, you have:
 
 *   Monitors (3x)
-
-*   2x Wirecast
-*   1x Replay
-*   1x Switcher multiview
-
+    *   2x Wirecast
+    *   1x Replay
+    *   1x Switcher multiview
 *   Replay Control Surface
-*   The Switcher (Control Surface)
 *   Switcher Laptop (plus power cord and ethernet dongle)
-*   Various keyboards & mice (2x each, one for replay and one for wirecast/graphics)
 
 Still-In-Room Testing - Checklist
 ---------------------------------
@@ -129,16 +101,11 @@ A good checklist is:
 
 *   Does the UPS turn on without complaints?
 *   Can you connect to every display?
-
-*   Wirecast (+Graphics), Replay, Switcher Multicam
-
+    *   Wirecast (+Graphics), Replay, Switcher Multicam
 *   Is every connection on the patch panel solid? Can you get every camera to show up on multicam?
-*   Are you getting the PROG IN video signal in wirecast?
 *   Can you create a replay file? Does the replay surface work?
-
-*   Can you see replay on switcher multiview?
-*   Can you get every camera in?
-
+    *   Can you see replay on switcher multiview?
+    *   Can you get every camera in?
 *   Can you connect to the internet?
 
 Patch Panels
@@ -262,11 +229,9 @@ Titler
 While physically a part of Wirecast, TitlerLive is a beast of its own.
 
 *   Scoreboard
-
-*   Edit title design
-*   Creating a scoreboard
-*   Troubleshooting in titler
-
+    *   Edit title design
+    *   Creating a scoreboard
+    *   Troubleshooting in titler
 *   Scoreboard Controller
 
 Switcher (ATEM TV Studio Pro 4K)

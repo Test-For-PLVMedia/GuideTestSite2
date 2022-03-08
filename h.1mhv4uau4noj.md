@@ -50,17 +50,12 @@ Adding Music (Outside of Storyblocks)
 *   Copy the link to the music of your choice
 *   Open a new tab
 *   Search ‘youtube to mp3 converter’
+*   Find the first link that works
+*   Download the mp3
+*   Move the file from ‘Downloads’ to your folder in the server
 
 ![](images/image93.png)
 
-*   Find the first link that works
-*   Paste the Youtube link into the converter and click Okay or Convert
-
 ![](images/image53.png)
 
-*   Download the mp3
-
 ![](images/image32.png)
-
-*   Move the file from ‘Downloads’ to your folder in the server
-*   Import the music into your premiere project

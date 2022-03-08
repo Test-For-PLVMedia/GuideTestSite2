@@ -51,10 +51,10 @@ You will see either BOAC\_Wirecast or MOAC\_Wirecast. Use the appropriate one b
 
 Once it opens, you will see 4 primary layers. They are as follows:
 
-1.  Titler Source. (scores, down, etc.)
-2.  Thumbnail/Graphics
-3.  PLV Media Logo Bug
-4.  Video Input (From Switcher)
+*   Titler Source. (scores, down, etc.)
+*   Thumbnail/Graphics
+*   PLV Media Logo Bug
+*   Video Input (From Switcher)
 
 You will have to delete everything currently in layer #2 (assuming it was left over from a previous stream), and put in the graphics for whichever stream you happen to be doing. To add new graphics, hover over the layer. A plus button will appear. Click that, and on the leftmost side select “media files.” Double-click “browse disk,” find the graphic(s) you want to insert. And click open.
 
@@ -155,36 +155,25 @@ Before you start streaming, you need to set up the output settings.
 Fall
 
 *   Football
-
-*   Teams, team logos, scores, time-outs, down & distance, ball on, clock, penalty indicator, sponsor logo (on left or right side)
-
+    *   Teams, team logos, scores, time-outs, down & distance, ball on, clock, penalty indicator, sponsor logo (on left or right side)
 *   Softball
-
-*   Teams, logos, runs, hits, errors, balls, strikes, pitch count,
-
+    *   Teams, logos, runs, hits, errors, balls, strikes, pitch count,
 *   Volleyball
-
-*   Teams, logos, scores, sets, match score, game score, clock (sometimes)
+    *   Teams, logos, scores, sets, match score, game score, clock (sometimes)
 
 Winter
 
 *   Basketball
-
-*   Teams, logos, scores, quarter, fouls, clock, bonus
-
+    *   Teams, logos, scores, quarter, fouls, clock, bonus
 *   Wrestling
-
-*   Teams, logos, individual score, weight, period, sponsor logo AND extra scoreboard with just team score (total)
+    *   Teams, logos, individual score, weight, period, sponsor logo AND extra scoreboard with just team score (total)
 
 Spring
 
 *   Soccer
-
-*   Teams, logos, scores, half, sponsor logo, pk shootout ( separate thing with dots green for score red for miss/block)
-
+    *   Teams, logos, scores, half, sponsor logo, pk shootout ( separate thing with dots green for score red for miss/block)
 *   Baseball
-
-*   Teams, logos, scores, inning, hits. runs. errors, pitch count sponsor logo
+    *   Teams, logos, scores, inning, hits. runs. errors, pitch count sponsor logo
 
 ### Camera Operator
 
@@ -265,13 +254,13 @@ Something else you need to do before the stream is ask your gfx designer to make
 
 So before you leave the media room...
 
-1.  Make the stream on YouTube
-2.  Ask your gfx designer to make the gfx for the game (Make sure that they actually get done, because people are busy and mistakes happen so double check that they are done. Don’t just assume that they are, because if they aren’t done it’s easier to fix before you leave the school.)
-3.  Fill out the crew assignment sheet
-4.  Make sure all of your crew is there and in [uniform](h.k6vpdgk5q6kp#uniforms).
-5.  Print off the script (that you get from the video board producer) and remember to take it with you
-6.  This is also a good time to figure out ride situations just so that you know who’s riding with who and can make sure everyone is getting over to the stadium together
-7.  Then load up a flatbed and to the van!
+*   Make the stream on YouTube
+*   Ask your gfx designer to make the gfx for the game (Make sure that they actually get done, because people are busy and mistakes happen so double check that they are done. Don’t just assume that they are, because if they aren’t done it’s easier to fix before you leave the school.)
+*   Fill out the crew assignment sheet
+*   Make sure all of your crew is there and in [uniform](h.k6vpdgk5q6kp#uniforms).
+*   Print off the script (that you get from the video board producer) and remember to take it with you
+*   This is also a good time to figure out ride situations just so that you know who’s riding with who and can make sure everyone is getting over to the stadium together
+*   Then load up a flatbed and to the van!
 
 Before you even go over to the stadium you have to load EVERYTHING up on the flat beds, load them into the van, and then you can drive over to the stadium to unload and carry everything up into the press box. You’ll want to pack everything during your class period (if okay with Hoch, of course) that way after school all you have to do is load it in the van. Things to pack include camera cases (inside each camera case is the camera, camera power cord which is two pieces, remote, and should be a rain coat for the camera incase it happens to rain during a stream-take these just incase with Nebraska weather you never know), monitor case, toolbox, radios, headphones/earpieces, monitors (which only need to be taken out once because they can stay in the storage closet from week to week instead of being taken back and forth), switcher, casket (the storage container that hold all of the tripods and cords), gaff tape (it’s nice to keep some of this in the PLV Media booth and a roll in the casket, you’ll always need it and for some reason it always seems to go missing), … Then once everything is loaded up you can make your way over to the stadium!
 
@@ -315,9 +304,8 @@ At the end of every stream, after everything is packed up, driven back over to P
 
 It’s hard to prepare for all of the issues that are going to come up at every stream because it is very unpredictable. There are some things that you can try and prepare for though so here is my advice:
 
-1.  Camera isn’t showing up in switcher
-
-1.  This has been a common issue in the past at the stadium with the cameras on each outside deck. The problem was that the SDI wall connectors were bad so the cameras weren’t showing up or they were flashing in and out, which are both bad. There are a few things you can try. First, make sure that everything is connected to what it is supposed to and follow each and every cord to make sure each connection is tight and connected to what it should be. Worst case scenario you might have to scratch the wall connections and run a direct line from the camera on the deck to MOAC. It’s a lot more work but sometimes it's necessary. Hopefully you won’t have to deal with that though. Crossing my fingers for you :)
+*   Camera isn’t showing up in switcher
+    *   This has been a common issue in the past at the stadium with the cameras on each outside deck. The problem was that the SDI wall connectors were bad so the cameras weren’t showing up or they were flashing in and out, which are both bad. There are a few things you can try. First, make sure that everything is connected to what it is supposed to and follow each and every cord to make sure each connection is tight and connected to what it should be. Worst case scenario you might have to scratch the wall connections and run a direct line from the camera on the deck to MOAC. It’s a lot more work but sometimes it's necessary. Hopefully you won’t have to deal with that though. Crossing my fingers for you :)
 
 ### Volleyball
 
@@ -347,11 +335,11 @@ Another important thing to do prior to the stream is ask your GFX to make some G
 
 Before you leave the media room…
 
-1.  Make the stream on YouTube
-2.  Ask your GFX designer to make the GFX for the game (Make sure to check up on them and make sure they are actually done. Don’t just assume they are, because it is much easier to fix in our classroom)
-3.  Fill out the crew assignment sheet
-4.  Make sure all of your crew is present and in uniform
-5.  If the VB game is at our school we won’t need rides, however if the game is at PLSHS this is the time that we find out the rides to PLSHS
+*   Make the stream on YouTube
+*   Ask your GFX designer to make the GFX for the game (Make sure to check up on them and make sure they are actually done. Don’t just assume they are, because it is much easier to fix in our classroom)
+*   Fill out the crew assignment sheet
+*   Make sure all of your crew is present and in uniform
+*   If the VB game is at our school we won’t need rides, however if the game is at PLSHS this is the time that we find out the rides to PLSHS
 
 ### Softball/Baseball
 
@@ -402,9 +390,9 @@ The units are fully compatible, but do try to keep them seperate—it makes lif
 
 ### Operation
 
-1.  Plug in the battery for the transmitter. Use DC power for the receiver.
-2.  Turn both on by holding down the power button. They can take a minute or two to start.
-3.  Ensure both are on the same channel. They should already be, but it’s good to do a sanity check. (We keep pair A on channel 1 and pair B on channel 3).
-4.  Plug in the SDI ins and outs.
+*   Plug in the battery for the transmitter. Use DC power for the receiver.
+*   Turn both on by holding down the power button. They can take a minute or two to start.
+*   Ensure both are on the same channel. They should already be, but it’s good to do a sanity check. (We keep pair A on channel 1 and pair B on channel 3).
+*   Plug in the SDI ins and outs.
 
 If it says RTSP, click and hold “mode” until it goes away. We want regular point-to-point (which the display will show nothing for).

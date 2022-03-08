@@ -8,29 +8,23 @@ Connections and Cables - Physical
 
 Let’s say you’re setting up at a stream, you turn on the switcher, have the multicam view pulled up, your cameras are plugged into MOAC—but you see nothing. Where do you start?
 
-1.  Identify the exact issue—what isn’t working, and how should it work
-
-1.  If you don’t know how it should work, use the guide! For instance, here it would be beneficial to look over [Setting Up -> Cables and Connections](h.saa8t5379qfj#cables-and-connections) in the MOAC section.
-
-2.  Think of what needs to go right for it to work
-3.  Think of what, in that chain, is most likely to go wrong
-4.  Change ONE thing at a time, switching out things that you think may not work
+*   Identify the exact issue—what isn’t working, and how should it work
+    *   If you don’t know how it should work, use the guide! For instance, here it would be beneficial to look over [Setting Up -> Cables and Connections](h.saa8t5379qfj#cables-and-connections) in the MOAC section.
+*   Think of what needs to go right for it to work
+*   Change ONE thing at a time, switching out things that you think may not work
 
 So, in practice:  
 In your mind (and this is something that gets much easier with time as you get more familiar with our setup) create a “diagram” of all of the things that need to go right to see video.
 
 It can also help to “label” how likely something is to fail. Something that’s stable for a long time can usually be trusted, but the random SDI you grabbed from the bin may very well be damaged. For this example, you’d need:
 
-1.  The camera must be on and sending a signal
-2.  The connection from the camera to the hub must be working
-
-1.  Connection from the camera to the input patch panel (decent chance to fail)
-2.  Connection from input patch panel to the hub (unlikely to fail)
-
-3.  The connection from the hub to the switcher must be working
-
-1.  Connection from hub to output patch panel (unlikely to fail)
-2.  Connection from output patch panel to the hub (decent chance to fail)
+*   The camera must be on and sending a signal
+*   The connection from the camera to the hub must be working
+    *   Connection from the camera to the input patch panel (decent chance to fail)
+    *   Connection from input patch panel to the hub (unlikely to fail)
+*   The connection from the hub to the switcher must be working
+    *   Connection from hub to output patch panel (unlikely to fail)
+    *   Connection from output patch panel to the hub (decent chance to fail)
 
 And, a more “graphical” approach:
 
