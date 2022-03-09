@@ -1,11 +1,11 @@
-*   [Equipment](h.fglkqcvgontl)*   [Teleprompter*   [Setup*   [Connecting the Display](h.fglkqcvgontl#connecting-the-display)](h.fglkqcvgontl#setup)
-        *   [Website and Usage](h.fglkqcvgontl#website-and-usage)](h.fglkqcvgontl#teleprompter)
+*   [Equipment](h.fglkqcvgontl)*   [Teleprompter](h.fglkqcvgontl#teleprompter)*   [Setup](h.fglkqcvgontl#setup)*   [Connecting the Display](h.fglkqcvgontl#connecting-the-display)
+        *   [Website and Usage](h.fglkqcvgontl#website-and-usage)
     *   [The Toolbox](h.fglkqcvgontl#the-toolbox)
-    *   [Cables*   [Video Cables](h.fglkqcvgontl#video-cables)
+    *   [Cables](h.fglkqcvgontl#cables)*   [Video Cables](h.fglkqcvgontl#video-cables)
         *   [Audio Cables](h.fglkqcvgontl#audio-cables)
         *   [Power Cables](h.fglkqcvgontl#power-cables)
-        *   [Data Cables*   [USB Types](h.fglkqcvgontl#usb-types)](h.fglkqcvgontl#data-cables)
-        *   [Network Cables](h.fglkqcvgontl#network-cables)](h.fglkqcvgontl#cables)
+        *   [Data Cables](h.fglkqcvgontl#data-cables)*   [USB Types](h.fglkqcvgontl#usb-types)
+        *   [Network Cables](h.fglkqcvgontl#network-cables)
 
 Equipment
 =========
@@ -43,7 +43,7 @@ Now whatever you do will show up on the prompter!
 
 ### Website and Usage
 
-The easiest site for this is [Teleprompter Mirror](https://www.google.com/url?q=https://telepromptermirror.com/telepromptersoftware.htm&sa=D&source=editors&ust=1646791610908727&usg=AOvVaw0pLEhTWOpAMJ11WY8-ytyM).
+The easiest site for this is [Teleprompter Mirror](https://www.google.com/url?q=https://telepromptermirror.com/telepromptersoftware.htm&sa=D&source=editors&ust=1646863017402870&usg=AOvVaw0nBTDf5DDLVhUBxQ4JgfW4).
 
 If possible, it’s easiest to just directly type the lines in. If you need to copy/paste from a document, you can do so, but if the formatting gets weird make sure to click this button ONCE. ![](images/image30.png)
 

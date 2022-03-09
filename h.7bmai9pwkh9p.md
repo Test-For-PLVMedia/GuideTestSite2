@@ -1,8 +1,8 @@
-*   [Brand Identity](h.7bmai9pwkh9p)*   [Colors*   [PLV Media](h.7bmai9pwkh9p#plv-media)
+*   [Brand Identity](h.7bmai9pwkh9p)*   [Colors](h.7bmai9pwkh9p#colors)*   [PLV Media](h.7bmai9pwkh9p#plv-media)
         *   [PLCS](h.7bmai9pwkh9p#plcs)
         *   [PLHS](h.7bmai9pwkh9p#plhs)
         *   [PLSHS](h.7bmai9pwkh9p#plshs)
-        *   [Other Schools’ Colors and Mascots (Class A)](h.7bmai9pwkh9p#other-schools-colors-and-mascots-class-a)](h.7bmai9pwkh9p#colors)
+        *   [Other Schools’ Colors and Mascots (Class A)](h.7bmai9pwkh9p#other-schools-colors-and-mascots-class-a)
     *   [Fonts](h.7bmai9pwkh9p#fonts)
     *   [Logos](h.7bmai9pwkh9p#logos)
     *   [End card](h.7bmai9pwkh9p#end-card)
@@ -33,7 +33,7 @@ Colors
 *   Titan Blue HEX: #003466
 *   Titan Grey HEX: #c9c9c9
 
-### [Other Schools’ Colors and Mascots (Class A)](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1646791610798089&usg=AOvVaw3COGW51ThalgGYjQizTk4l)
+### [Other Schools’ Colors and Mascots (Class A)](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1646863017193374&usg=AOvVaw3wufW0ZhdEGT0-_e_uD1NP)
 
 Unless specified otherwise, these are pulled from the team’s maxpreps page, and beyond that do not represent “official” colors/style guides. Still should be more than good enough for 90% of projects.
 

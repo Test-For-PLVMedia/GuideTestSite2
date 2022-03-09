@@ -1,17 +1,17 @@
 *   [GFX](h.ndtjbu9g0o6e)*   [Formats](h.ndtjbu9g0o6e#formats)
     *   [Colors](h.ndtjbu9g0o6e#colors)
     *   [Why HEX codes?](h.ndtjbu9g0o6e#why-hex-codes)
-    *   [What if I need to use other colors?*   [Without](h.ndtjbu9g0o6e#without)
+    *   [What if I need to use other colors?](h.ndtjbu9g0o6e#what-if-i-need-to-use-other-colors)*   [Without](h.ndtjbu9g0o6e#without)
         *   [With](h.ndtjbu9g0o6e#with)
-        *   [Conclusion](h.ndtjbu9g0o6e#conclusion)](h.ndtjbu9g0o6e#what-if-i-need-to-use-other-colors)
-    *   [Illustrator*   [What do you use Illustrator for?*   [Pros of Illustrator](h.ndtjbu9g0o6e#pros-of-illustrator)
-            *   [Cons of Illustrator](h.ndtjbu9g0o6e#cons-of-illustrator)](h.ndtjbu9g0o6e#what-do-you-use-illustrator-for)
+        *   [Conclusion](h.ndtjbu9g0o6e#conclusion)
+    *   [Illustrator](h.ndtjbu9g0o6e#illustrator)*   [What do you use Illustrator for?](h.ndtjbu9g0o6e#what-do-you-use-illustrator-for)*   [Pros of Illustrator](h.ndtjbu9g0o6e#pros-of-illustrator)
+            *   [Cons of Illustrator](h.ndtjbu9g0o6e#cons-of-illustrator)
         *   [What do we use Illustrator for?](h.ndtjbu9g0o6e#what-do-we-use-illustrator-for)
-        *   [Starting a Graphic*   [Creating the Document](h.ndtjbu9g0o6e#creating-the-document)
-            *   [The Tool Bar](h.ndtjbu9g0o6e#the-tool-bar)](h.ndtjbu9g0o6e#starting-a-graphic)
-        *   [Conclusion](h.ndtjbu9g0o6e#conclusion)](h.ndtjbu9g0o6e#illustrator)
-    *   [Photoshop*   [What do you use Photoshop for?*   [Pros of Photoshop](h.ndtjbu9g0o6e#pros-of-photoshop)
-            *   [Cons of Photoshop](h.ndtjbu9g0o6e#cons-of-photoshop)](h.ndtjbu9g0o6e#what-do-you-use-photoshop-for)](h.ndtjbu9g0o6e#photoshop)
+        *   [Starting a Graphic](h.ndtjbu9g0o6e#starting-a-graphic)*   [Creating the Document](h.ndtjbu9g0o6e#creating-the-document)
+            *   [The Tool Bar](h.ndtjbu9g0o6e#the-tool-bar)
+        *   [Conclusion](h.ndtjbu9g0o6e#conclusion)
+    *   [Photoshop](h.ndtjbu9g0o6e#photoshop)*   [What do you use Photoshop for?](h.ndtjbu9g0o6e#what-do-you-use-photoshop-for)*   [Pros of Photoshop](h.ndtjbu9g0o6e#pros-of-photoshop)
+            *   [Cons of Photoshop](h.ndtjbu9g0o6e#cons-of-photoshop)
     *   [Blender](h.ndtjbu9g0o6e#blender)
 
 GFX
@@ -67,7 +67,7 @@ HEX codes use RGB (Red, Green, and Blue) to color objects. RGB uses the primary 
 What if I need to use other colors?
 -----------------------------------
 
-I’m not going into color theory right now you can Google that yourself. However, I will recommend you use this—[coolors.co](https://www.google.com/url?q=https://coolors.co/&sa=D&source=editors&ust=1646791610822357&usg=AOvVaw3mFiyOwXeiQJnfSWn0Exou). It is something you can use to create color palettes, which will in turn help your design look better. Here are two examples, with and without using a color palette.
+I’m not going into color theory right now you can Google that yourself. However, I will recommend you use this—[coolors.co](https://www.google.com/url?q=https://coolors.co/&sa=D&source=editors&ust=1646863017243340&usg=AOvVaw2v7aVDgPZwZGimhC2tzG61). It is something you can use to create color palettes, which will in turn help your design look better. Here are two examples, with and without using a color palette.
 
 ### Without
 
@@ -87,9 +87,9 @@ I can talk about color forever, but this is essentially all you need to know to 
 
 If you want to learn more, start here:
 
-*   [99design](https://www.google.com/url?q=https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/&sa=D&source=editors&ust=1646791610823853&usg=AOvVaw2o-6sPXyFTRIeEzkO8sFIY)
-*   [BlackBearDesign](https://www.google.com/url?q=https://www.blackbeardesign.com/blog/graphic-designers/understanding-color-the-meaning-of-color/&sa=D&source=editors&ust=1646791610824225&usg=AOvVaw1sPSe6Ts6hUkZMdTDXddiN)
-*   [Beginning Graphic Design](https://www.google.com/url?q=https://edu.gcfglobal.org/en/beginning-graphic-design/color/1/&sa=D&source=editors&ust=1646791610824602&usg=AOvVaw3PqoEV9T7QvcflXWDVRa4Z)
+*   [99design](https://www.google.com/url?q=https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/&sa=D&source=editors&ust=1646863017246183&usg=AOvVaw0U5T_e1oWIPiVLpvY-jikO)
+*   [BlackBearDesign](https://www.google.com/url?q=https://www.blackbeardesign.com/blog/graphic-designers/understanding-color-the-meaning-of-color/&sa=D&source=editors&ust=1646863017246836&usg=AOvVaw3BbRvPxRLbXOfQ8YMPv-Mb)
+*   [Beginning Graphic Design](https://www.google.com/url?q=https://edu.gcfglobal.org/en/beginning-graphic-design/color/1/&sa=D&source=editors&ust=1646863017247375&usg=AOvVaw0JJ97F4tWzNt7ab-S3WYFv)
 
 Illustrator 
 ------------
@@ -140,7 +140,7 @@ Here are the tools that we use the most:
 
 ![](images/image69.png)The direct selection tool (A): Essentially the selection tool, but it can be used to isolate certain paths objects even if they're within a group.
 
-![](images/image45.png)The pen tool (P): Used to make lines and create and edit anchor paths and objects. I found this confusing to learn so I would suggest playing the [Bezier Game](https://www.google.com/url?q=https://bezier.method.ac/&sa=D&source=editors&ust=1646791610828041&usg=AOvVaw0oPrx-xgLTABq205QHsV6K) to learn how to use the pen tool. It’s easier with the pen tool to make technical and precise drawings once you really get it down. You can adjust the fill and stroke if necessary. Much better for what we do.
+![](images/image45.png)The pen tool (P): Used to make lines and create and edit anchor paths and objects. I found this confusing to learn so I would suggest playing the [Bezier Game](https://www.google.com/url?q=https://bezier.method.ac/&sa=D&source=editors&ust=1646863017253582&usg=AOvVaw2fBztVvQ91948u10Od2HFY) to learn how to use the pen tool. It’s easier with the pen tool to make technical and precise drawings once you really get it down. You can adjust the fill and stroke if necessary. Much better for what we do.
 
 ![](images/image80.png)The curvature tool (Shift + \`  ): Much like the pen tool, the curvature tool is used to make and edit anchor paths and objects. The difference between the tool is this lacks the ability to be as precise as the pen tool. However, it is much easier to use, and much better for creative work. With the curvature tool, you click the tool once for a curve and once for a point. You can also tell what each point is by checking to see if there’s a dot in the middle of the point. If there is, it’s a pointed edge. Like the pen tool, you can adjust the fill and stroke if necessary. Not necessarily the best for what we’ll do unless you need to get creative.
 
@@ -186,6 +186,6 @@ There isn’t as wide of a variety when it comes to what you can do when making 
 Blender
 -------
 
-Want to really learn blender? Take a weekend and do the [donut tutorial](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnIoXOplUvAw%26list%3DPLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD&sa=D&source=editors&ust=1646791610831135&usg=AOvVaw1b0w1nsLrw3oFD71v_YJRM).
+Want to really learn blender? Take a weekend and do the [donut tutorial](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnIoXOplUvAw%26list%3DPLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD&sa=D&source=editors&ust=1646863017259504&usg=AOvVaw1F8951crJgbp7f5lPqneqh).
 
 * * *

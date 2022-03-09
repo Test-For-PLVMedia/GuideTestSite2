@@ -1,31 +1,31 @@
-*   [MOAC (Mother of all Cases)](h.saa8t5379qfj)*   [Setting Up In Practice*   [Setting up monitors and stands](h.saa8t5379qfj#setting-up-monitors-and-stands)
+*   [MOAC (Mother of all Cases)](h.saa8t5379qfj)*   [Setting Up In Practice](h.saa8t5379qfj#setting-up-in-practice)*   [Setting up monitors and stands](h.saa8t5379qfj#setting-up-monitors-and-stands)
         *   [Cables and Connections](h.saa8t5379qfj#cables-and-connections)
-        *   [Getting the Computers Working](h.saa8t5379qfj#getting-the-computers-working)](h.saa8t5379qfj#setting-up-in-practice)
+        *   [Getting the Computers Working](h.saa8t5379qfj#getting-the-computers-working)
     *   [General Layout and Case Setup](h.saa8t5379qfj#general-layout-and-case-setup)
     *   [Still-In-Room Testing - Checklist](h.saa8t5379qfj#still-in-room-testing---checklist)
     *   [Patch Panels](h.saa8t5379qfj#patch-panels)
-    *   [Network Switch & Access Point*   [Stream Setup](h.saa8t5379qfj#stream-setup)](h.saa8t5379qfj#network-switch--access-point)
-    *   [Hyperdeck*   [Start a Recording](h.saa8t5379qfj#start-a-recording)](h.saa8t5379qfj#hyperdeck)
-    *   [The Hub*   [Using the Software Interface](h.saa8t5379qfj#using-the-software-interface)
-        *   [Using the Hardware Interface](h.saa8t5379qfj#using-the-hardware-interface)](h.saa8t5379qfj#the-hub)
-    *   [X32 Audio Rack*   [Setup](h.saa8t5379qfj#setup)
-        *   [Adjusting Audio Level](h.saa8t5379qfj#adjusting-audio-level)](h.saa8t5379qfj#x32-audio-rack)
-    *   [Wirecast*   [Restream.io](h.saa8t5379qfj#restreamio)
-        *   [Scene Setup](h.saa8t5379qfj#scene-setup)](h.saa8t5379qfj#wirecast)
+    *   [Network Switch & Access Point](h.saa8t5379qfj#network-switch--access-point)*   [Stream Setup](h.saa8t5379qfj#stream-setup)
+    *   [Hyperdeck](h.saa8t5379qfj#hyperdeck)*   [Start a Recording](h.saa8t5379qfj#start-a-recording)
+    *   [The Hub](h.saa8t5379qfj#the-hub)*   [Using the Software Interface](h.saa8t5379qfj#using-the-software-interface)
+        *   [Using the Hardware Interface](h.saa8t5379qfj#using-the-hardware-interface)
+    *   [X32 Audio Rack](h.saa8t5379qfj#x32-audio-rack)*   [Setup](h.saa8t5379qfj#setup)
+        *   [Adjusting Audio Level](h.saa8t5379qfj#adjusting-audio-level)
+    *   [Wirecast](h.saa8t5379qfj#wirecast)*   [Restream.io](h.saa8t5379qfj#restreamio)
+        *   [Scene Setup](h.saa8t5379qfj#scene-setup)
     *   [Titler](h.saa8t5379qfj#titler)
-    *   [Switcher (ATEM TV Studio Pro 4K)*   [Network setup and configuration](h.saa8t5379qfj#network-setup-and-configuration)
+    *   [Switcher (ATEM TV Studio Pro 4K)](h.saa8t5379qfj#switcher-atem-tv-studio-pro-4k)*   [Network setup and configuration](h.saa8t5379qfj#network-setup-and-configuration)
         *   [Loading and Saving Switcher Configuration](h.saa8t5379qfj#loading-and-saving-switcher-configuration)
         *   [Configuring Switcher Multiview & Routing](h.saa8t5379qfj#configuring-switcher-multiview--routing)
         *   [Creating and Using Macros](h.saa8t5379qfj#creating-and-using-macros)
         *   [Advanced - Editing Macros After Creation](h.saa8t5379qfj#advanced---editing-macros-after-creation)
         *   [Troubleshooting](h.saa8t5379qfj#troubleshooting)
-        *   [Operation*   [Preview and Program keys (Choosing Camera)](h.saa8t5379qfj#preview-and-program-keys-choosing-camera)
+        *   [Operation](h.saa8t5379qfj#operation)*   [Preview and Program keys (Choosing Camera)](h.saa8t5379qfj#preview-and-program-keys-choosing-camera)
             *   [Macros](h.saa8t5379qfj#macros)
-            *   [Audio](h.saa8t5379qfj#audio)](h.saa8t5379qfj#operation)](h.saa8t5379qfj#switcher-atem-tv-studio-pro-4k)
-    *   [Replay (3Play) Deck*   [Setup - Creating a Replay File](h.saa8t5379qfj#setup---creating-a-replay-file)
-        *   [Operation](h.saa8t5379qfj#operation)](h.saa8t5379qfj#replay-3play-deck)
-    *   [Uninterruptible Power Supply (UPS)*   [Turning On](h.saa8t5379qfj#turning-on)
-        *   [Turning Off](h.saa8t5379qfj#turning-off)](h.saa8t5379qfj#uninterruptible-power-supply-ups)
+            *   [Audio](h.saa8t5379qfj#audio)
+    *   [Replay (3Play) Deck](h.saa8t5379qfj#replay-3play-deck)*   [Setup - Creating a Replay File](h.saa8t5379qfj#setup---creating-a-replay-file)
+        *   [Operation](h.saa8t5379qfj#operation)
+    *   [Uninterruptible Power Supply (UPS)](h.saa8t5379qfj#uninterruptible-power-supply-ups)*   [Turning On](h.saa8t5379qfj#turning-on)
+        *   [Turning Off](h.saa8t5379qfj#turning-off)
 
 MOAC (Mother of all Cases)
 ==========================
@@ -282,7 +282,7 @@ Then, with the laptop also on the PLCS Secure network, you can launch ATEM Softw
 
 You can also configure this from the control surface menu by going to the settings tab. (Menu button on top left, scroll using the wheel next to the screen, click “set” to select the settings tab, then scroll down to the bottom of the menu.)
 
-[Video Example.](https://www.google.com/url?q=https://youtu.be/5j-ljKuCL10&sa=D&source=editors&ust=1646791610894801&usg=AOvVaw0YwgUsyzKfI5R0w9VPLbX5)
+[Video Example.](https://www.google.com/url?q=https://youtu.be/5j-ljKuCL10&sa=D&source=editors&ust=1646863017378459&usg=AOvVaw3PfhmqXUQnWaWmEo6wiQXD)
 
 ### Loading and Saving Switcher Configuration
 
@@ -294,7 +294,7 @@ Path: (PLV Media -> Switcher -> \[Game\] -> example.xml)
 
 NOTE: It may take a few minutes for all media files to fully load. Be patient!
 
-[Video example of loading](https://www.google.com/url?q=https://youtu.be/YUu5kEANvd4&sa=D&source=editors&ust=1646791610896103&usg=AOvVaw0bsVnCGdjLD5U5lnhNQJtY)
+[Video example of loading](https://www.google.com/url?q=https://youtu.be/YUu5kEANvd4&sa=D&source=editors&ust=1646863017380565&usg=AOvVaw2iyY4MVlKgv5Lzm_4URKTh)
 
 To save, simply click “File -> Save As,” and select the location to save it in. You will be presented with options of what to save, and unless if you have a specific purpose for doing otherwise, just make sure all are selected. I would recommend removing old configuration files to avoid confusion, but it is up to you what is best in your situation (at the very least, store new configurations in a sub-folder). It will take a minute or two to save.
 
@@ -336,7 +336,7 @@ To edit a macro, we have to edit our configuration file as a whole. First, [save
 
 <Op id="MacroSleep" frames="\[NUMBER OF FRAMES\]"/>
 
-You can add this in or edit the frame number at leisure. For more advanced xml editing, you can find some community documentation [here](https://www.google.com/url?q=https://github.com/imorrish/ATEMConfigSnippets&sa=D&source=editors&ust=1646791610899163&usg=AOvVaw1B51-k2bOj8KQaNcLJvWMx).
+You can add this in or edit the frame number at leisure. For more advanced xml editing, you can find some community documentation [here](https://www.google.com/url?q=https://github.com/imorrish/ATEMConfigSnippets&sa=D&source=editors&ust=1646863017385272&usg=AOvVaw0gqD4d5OwzFYJOfZLEuNQd).
 
 Once you [load the config back in](h.saa8t5379qfj#loading-and-saving-switcher-configuration), your macro will be edited.
 
@@ -346,7 +346,7 @@ Once you [load the config back in](h.saa8t5379qfj#loading-and-saving-switcher-co
 
 ### Operation
 
-[\[Playlist with all operation video examples\]](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLDdTRHGk2-VHekl2vE2OTNvZ2PZ_qt7cS&sa=D&source=editors&ust=1646791610900009&usg=AOvVaw3MA6cOxRtIUXMdZxOmpxJG)
+[\[Playlist with all operation video examples\]](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLDdTRHGk2-VHekl2vE2OTNvZ2PZ_qt7cS&sa=D&source=editors&ust=1646863017387130&usg=AOvVaw1nnUM3njp7k_Eb8HXbJFBl)
 
 First, ensure you have the proper switcher configuration [loaded in](h.saa8t5379qfj#loading-and-saving-switcher-configuration) for the event, and all cables are connected properly. You should have power and ethernet connected first. Use the camera output patch panel (the top one) and connect all your cameras and replay (Replay goes into CAM6 on switcher).
 
@@ -362,7 +362,7 @@ The red row is the “Program” row - it dictates what’s directly being outpu
 
 It’s fairly self-explanatory, the button labeled “1” will be Camera 1, “2” is Cam 2, etc. All other mappings can be edited and found in [configuring routing](h.saa8t5379qfj#configuring-switcher-multiview--routing). We usually have replay mapped to “Camera 6”.
 
-[Video example for program row.](https://www.google.com/url?q=https://youtu.be/pJGsH0jxYYk&sa=D&source=editors&ust=1646791610901168&usg=AOvVaw1ibCqbWR7McZng07Vb0qku)
+[Video example for program row.](https://www.google.com/url?q=https://youtu.be/pJGsH0jxYYk&sa=D&source=editors&ust=1646863017389485&usg=AOvVaw26iEafdOOgKmh-V1ao9km0)
 
 If you make a mistake, it goes live immediately. If you need to quickly cut away from an injury or are just setting stuff up you may use this row, but for the most part you’re going to want to use the preview row.
 
@@ -370,9 +370,9 @@ With the preview row, you get a few more options. Once you click one of the butt
 
 If you want to get more fancy, we have a few options. If you want to fade, you can either click “auto” for a smooth fade or control the transition yourself using the slider bar.
 
-[Cut Example.](https://www.google.com/url?q=https://youtu.be/Rx-1buJKa1Y&sa=D&source=editors&ust=1646791610901742&usg=AOvVaw3qzX1NUC369qyOv6YxH5oT)
+[Cut Example.](https://www.google.com/url?q=https://youtu.be/Rx-1buJKa1Y&sa=D&source=editors&ust=1646863017390688&usg=AOvVaw1Noi__DMxYIU18Ck6BSWM4)
 
-[Fade Example](https://www.google.com/url?q=https://youtu.be/IHnbdENvH9c&sa=D&source=editors&ust=1646791610901988&usg=AOvVaw1MeYmsPffPNO6B__ihy2JV)
+[Fade Example](https://www.google.com/url?q=https://youtu.be/IHnbdENvH9c&sa=D&source=editors&ust=1646863017391148&usg=AOvVaw2FhGonMI4vCCTcmc5AMyxP)
 
 We use hard cuts for:
 
@@ -387,7 +387,7 @@ We use fades for:
 
 Assuming that you either are using a [loaded in](h.saa8t5379qfj#loading-and-saving-switcher-configuration) setup with a macro, or you’ve [created](h.saa8t5379qfj#creating-and-using-macros) a macro, all you have to do to trigger it from the control surface is hit the “macro” key (located at the rightmost side of the row above the program keys), and then hit its corresponding number. (On the row directly below that).
 
-[Macro Example.](https://www.google.com/url?q=https://youtu.be/NahRnWEBVew&sa=D&source=editors&ust=1646791610902999&usg=AOvVaw1XpLDvKqzO4V83cUxroPAc) (The zooming in on screens indicates that you don’t have to switch to the replay camera manually—it switches for you from whatever camera you’re already on.)
+[Macro Example.](https://www.google.com/url?q=https://youtu.be/NahRnWEBVew&sa=D&source=editors&ust=1646863017393019&usg=AOvVaw1XuMCVWQ2oN4CVqteqVasV) (The zooming in on screens indicates that you don’t have to switch to the replay camera manually—it switches for you from whatever camera you’re already on.)
 
 Macro 1 will usually be the replay animation, but your mileage may vary depending on what you’re streaming. Become familiar with the specific setup BEFORE the stream begins.
 

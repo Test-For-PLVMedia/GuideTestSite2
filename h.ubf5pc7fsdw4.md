@@ -1,15 +1,15 @@
-*   [Glamor Shots](h.ubf5pc7fsdw4)*   [Planning*   [Studio Prep*   [Lights](h.ubf5pc7fsdw4#lights)
-            *   [Camera/Tripod](h.ubf5pc7fsdw4#cameratripod)](h.ubf5pc7fsdw4#studio-prep)
+*   [Glamor Shots](h.ubf5pc7fsdw4)*   [Planning](h.ubf5pc7fsdw4#planning)*   [Studio Prep](h.ubf5pc7fsdw4#studio-prep)*   [Lights](h.ubf5pc7fsdw4#lights)
+            *   [Camera/Tripod](h.ubf5pc7fsdw4#cameratripod)
         *   [Contact](h.ubf5pc7fsdw4#contact)
-        *   [Crew](h.ubf5pc7fsdw4#crew)](h.ubf5pc7fsdw4#planning)
-    *   [Operation*   [Photographer](h.ubf5pc7fsdw4#photographer)
+        *   [Crew](h.ubf5pc7fsdw4#crew)
+    *   [Operation](h.ubf5pc7fsdw4#operation)*   [Photographer](h.ubf5pc7fsdw4#photographer)
         *   [Cameraman](h.ubf5pc7fsdw4#cameraman)
         *   [Director/Producer](h.ubf5pc7fsdw4#directorproducer)
-        *   [Wrangler/Pit Crew](h.ubf5pc7fsdw4#wranglerpit-crew)](h.ubf5pc7fsdw4#operation)
-    *   [Editing & Distribution*   [Editing Process](h.ubf5pc7fsdw4#editing-process)
+        *   [Wrangler/Pit Crew](h.ubf5pc7fsdw4#wranglerpit-crew)
+    *   [Editing & Distribution](h.ubf5pc7fsdw4#editing--distribution)*   [Editing Process](h.ubf5pc7fsdw4#editing-process)
         *     [‘Roto’ing GIFS](h.ubf5pc7fsdw4#rotoing-gifs)
         *   [Boxout](h.ubf5pc7fsdw4#boxout)
-        *   [Video Board](h.ubf5pc7fsdw4#video-board)](h.ubf5pc7fsdw4#editing--distribution)
+        *   [Video Board](h.ubf5pc7fsdw4#video-board)
 
 Glamor Shots
 ============
@@ -158,7 +158,7 @@ Editing & Distribution
 *   Go to Layer>New>Light
 *   Set the light type to ‘Parallel’
 *   Set the intensity to 225%
-*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1646791610924852&usg=AOvVaw3fG9xpAc8W7177CQBs5cEg) 
+*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1646863017433371&usg=AOvVaw2bU1Z5FYXS9lJ28LkLpi77) 
 *   Click OK
 *   Select ‘Parallel Light’ laye by Click+Hold on the name
 *   Drag between Roto and Background layer

@@ -1,26 +1,26 @@
 *   [Daktronics Video Board (Stadium)](h.mp2wk13ytfu)*   [Folder Maintenance](h.mp2wk13ytfu#folder-maintenance)
     *   [Content Requirements](h.mp2wk13ytfu#content-requirements)
     *   [Sound System](h.mp2wk13ytfu#sound-system)
-    *   [Event Prep*   [Football*   [Communications](h.mp2wk13ytfu#communications)
+    *   [Event Prep](h.mp2wk13ytfu#event-prep)*   [Football](h.mp2wk13ytfu#football)*   [Communications](h.mp2wk13ytfu#communications)
             *   [Videos](h.mp2wk13ytfu#videos)
             *   [Sponsors](h.mp2wk13ytfu#sponsors)
             *   [Scripts](h.mp2wk13ytfu#scripts)
-            *   [Graphics](h.mp2wk13ytfu#graphics)](h.mp2wk13ytfu#football)
+            *   [Graphics](h.mp2wk13ytfu#graphics)
         *   [TMI](h.mp2wk13ytfu#tmi)
         *   [Tater Trot](h.mp2wk13ytfu#tater-trot)
         *   [Soccer](h.mp2wk13ytfu#soccer)
         *   [Track](h.mp2wk13ytfu#track)
         *   [Unified Sports](h.mp2wk13ytfu#unified-sports)
         *   [6th Grade Field Days](h.mp2wk13ytfu#6th-grade-field-days)
-        *   [Special Events](h.mp2wk13ytfu#special-events)](h.mp2wk13ytfu#event-prep)
-    *   [Operation*   [Football](h.mp2wk13ytfu#football)
+        *   [Special Events](h.mp2wk13ytfu#special-events)
+    *   [Operation](h.mp2wk13ytfu#operation)*   [Football](h.mp2wk13ytfu#football)
         *   [TMI](h.mp2wk13ytfu#tmi)
         *   [Tater Trot](h.mp2wk13ytfu#tater-trot)
         *   [Soccer](h.mp2wk13ytfu#soccer)
         *   [Track](h.mp2wk13ytfu#track)
         *   [Unified Sports](h.mp2wk13ytfu#unified-sports)
         *   [6th Grade Field Days](h.mp2wk13ytfu#6th-grade-field-days)
-        *   [Special Events](h.mp2wk13ytfu#special-events)](h.mp2wk13ytfu#operation)
+        *   [Special Events](h.mp2wk13ytfu#special-events)
 
 Daktronics Video Board (Stadium)
 ================================
@@ -120,12 +120,12 @@ Top Section
 DMP8VIDEO-1-mainLayout:topsection
 
   
-[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1646791610936458&usg=AOvVaw1TqPeam64gSNpdde5y0cQo)
+[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1646863017454305&usg=AOvVaw20pd3sj07PyHuCBikcbz9l)
 
 Sound System
 ------------
 
-[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1646791610936969&usg=AOvVaw3ZvMM_16knZ7Y7CykuF4iR)
+[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1646863017455257&usg=AOvVaw3Fkk8CnXLELMDp0kpdslzL)
 
 Event Prep
 ----------

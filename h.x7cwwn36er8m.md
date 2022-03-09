@@ -1,5 +1,5 @@
 *   [The Room (401)](h.x7cwwn36er8m)*   [Organizational Layout](h.x7cwwn36er8m#organizational-layout)
-    *   [Where is everything‽*   [Cables*   [Video](h.x7cwwn36er8m#video)](h.x7cwwn36er8m#cables)](h.x7cwwn36er8m#where-is-everything)
+    *   [Where is everything‽](h.x7cwwn36er8m#where-is-everything)*   [Cables](h.x7cwwn36er8m#cables)*   [Video](h.x7cwwn36er8m#video)
 
 The Room (401)
 ==============
