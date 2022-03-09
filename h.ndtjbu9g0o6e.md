@@ -1,3 +1,19 @@
+*   [GFX](h.ndtjbu9g0o6e)*   [Formats](h.ndtjbu9g0o6e#formats)
+    *   [Colors](h.ndtjbu9g0o6e#colors)
+    *   [Why HEX codes?](h.ndtjbu9g0o6e#why-hex-codes)
+    *   [What if I need to use other colors?*   [Without](h.ndtjbu9g0o6e#without)
+        *   [With](h.ndtjbu9g0o6e#with)
+        *   [Conclusion](h.ndtjbu9g0o6e#conclusion)](h.ndtjbu9g0o6e#what-if-i-need-to-use-other-colors)
+    *   [Illustrator*   [What do you use Illustrator for?*   [Pros of Illustrator](h.ndtjbu9g0o6e#pros-of-illustrator)
+            *   [Cons of Illustrator](h.ndtjbu9g0o6e#cons-of-illustrator)](h.ndtjbu9g0o6e#what-do-you-use-illustrator-for)
+        *   [What do we use Illustrator for?](h.ndtjbu9g0o6e#what-do-we-use-illustrator-for)
+        *   [Starting a Graphic*   [Creating the Document](h.ndtjbu9g0o6e#creating-the-document)
+            *   [The Tool Bar](h.ndtjbu9g0o6e#the-tool-bar)](h.ndtjbu9g0o6e#starting-a-graphic)
+        *   [Conclusion](h.ndtjbu9g0o6e#conclusion)](h.ndtjbu9g0o6e#illustrator)
+    *   [Photoshop*   [What do you use Photoshop for?*   [Pros of Photoshop](h.ndtjbu9g0o6e#pros-of-photoshop)
+            *   [Cons of Photoshop](h.ndtjbu9g0o6e#cons-of-photoshop)](h.ndtjbu9g0o6e#what-do-you-use-photoshop-for)](h.ndtjbu9g0o6e#photoshop)
+    *   [Blender](h.ndtjbu9g0o6e#blender)
+
 GFX
 ===
 

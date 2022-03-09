@@ -1,3 +1,16 @@
+*   [Glamor Shots](h.ubf5pc7fsdw4)*   [Planning*   [Studio Prep*   [Lights](h.ubf5pc7fsdw4#lights)
+            *   [Camera/Tripod](h.ubf5pc7fsdw4#cameratripod)](h.ubf5pc7fsdw4#studio-prep)
+        *   [Contact](h.ubf5pc7fsdw4#contact)
+        *   [Crew](h.ubf5pc7fsdw4#crew)](h.ubf5pc7fsdw4#planning)
+    *   [Operation*   [Photographer](h.ubf5pc7fsdw4#photographer)
+        *   [Cameraman](h.ubf5pc7fsdw4#cameraman)
+        *   [Director/Producer](h.ubf5pc7fsdw4#directorproducer)
+        *   [Wrangler/Pit Crew](h.ubf5pc7fsdw4#wranglerpit-crew)](h.ubf5pc7fsdw4#operation)
+    *   [Editing & Distribution*   [Editing Process](h.ubf5pc7fsdw4#editing-process)
+        *     [‘Roto’ing GIFS](h.ubf5pc7fsdw4#rotoing-gifs)
+        *   [Boxout](h.ubf5pc7fsdw4#boxout)
+        *   [Video Board](h.ubf5pc7fsdw4#video-board)](h.ubf5pc7fsdw4#editing--distribution)
+
 Glamor Shots
 ============
 

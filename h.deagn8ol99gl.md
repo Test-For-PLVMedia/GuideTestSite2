@@ -1,3 +1,12 @@
+*   [After Effects](h.deagn8ol99gl)*   [Rotoing a video (Glamour Shot 2021 cleanup)](h.deagn8ol99gl#rotoing-a-video-glamour-shot-2021-cleanup)
+    *   [Beginner*   [About](h.deagn8ol99gl#about)
+        *   [Keyframing](h.deagn8ol99gl#keyframing)
+        *   [Rotation keyframing](h.deagn8ol99gl#rotation-keyframing)](h.deagn8ol99gl#beginner)
+    *   [Intermediate*   [About](h.deagn8ol99gl#about)](h.deagn8ol99gl#intermediate)
+    *   [Advanced*   [About](h.deagn8ol99gl#about)](h.deagn8ol99gl#advanced)
+    *   [Templates*   [About](h.deagn8ol99gl#about)](h.deagn8ol99gl#templates)
+    *   [Resources](h.deagn8ol99gl#resources)
+
 After Effects
 =============
 
