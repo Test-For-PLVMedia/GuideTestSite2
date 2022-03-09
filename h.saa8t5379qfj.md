@@ -16,26 +16,7 @@ It’s up to the stream producer how they want to set it up, but effectively jus
 
 In total, you need to wire up:
 
-*   UPS
-    *   It’s the main power cable coming out the back of the MOAC. Plug it into the wall.
-*   [Network](h.saa8t5379qfj#network-switch--access-point) (Link to images and further explanation)
-    *   Taking the building’s ethernet from a wall, plug it into the WAN1 port on the front.
-*   Wirecast
-    *   HDMI Connections are on the computer patch panel, marked in yellow as “WC”
-    *   USB (mouse and keyboard) are marked on the computer patch panel.
-    *   All video connections are handled through the hub. No setup or work needed.
-*   Replay
-    *   HDMI Connections are on the computer patch panel, marked in yellow as “RPLY”
-    *   USB (mouse and keyboard) are marked on the computer patch panel.
-    *   The Control Surface also plugs in through USB. (This handles power & data)
-    *   All video connections are handled through the hub. No setup or work needed.
-*   Switcher
-    *   The control surface uses the same cord as monitors do for power.
-    *   HDMI is onboard the control surface, plug it directly into the monitor.
-    *   Use the SDI coming from the [output patch panel](#id.xptcmhybmajf) to plug in cameras.
-    *   Switcher control surface’s Program Out goes to the input patch panel’s “SW IN”
-*   [X32](h.saa8t5379qfj#setup) (Audio, click link for detailed setup)
-    *   Connect audio to the back of the MOAC, using the audio patch panel.
+*   UPS    *   It’s the main power cable coming out the back of the MOAC. Plug it into the wall.*   [Network](h.saa8t5379qfj#network-switch--access-point) (Link to images and further explanation)    *   Taking the building’s ethernet from a wall, plug it into the WAN1 port on the front.*   Wirecast    *   HDMI Connections are on the computer patch panel, marked in yellow as “WC”    *   USB (mouse and keyboard) are marked on the computer patch panel.    *   All video connections are handled through the hub. No setup or work needed.*   Replay    *   HDMI Connections are on the computer patch panel, marked in yellow as “RPLY”    *   USB (mouse and keyboard) are marked on the computer patch panel.    *   The Control Surface also plugs in through USB. (This handles power & data)    *   All video connections are handled through the hub. No setup or work needed.*   Switcher    *   The control surface uses the same cord as monitors do for power.    *   HDMI is onboard the control surface, plug it directly into the monitor.    *   Use the SDI coming from the output patch panel to plug in cameras.    *   Switcher control surface’s Program Out goes to the input patch panel’s “SW IN”*   [X32](h.saa8t5379qfj#setup) (Audio, click link for detailed setup)    *   Connect audio to the back of the MOAC, using the audio patch panel.
 
 You’ll also need to [turn on the UPS](h.saa8t5379qfj#turning-on).
 
@@ -47,17 +28,7 @@ Once everything is plugged in, ensure that everything else (replay, wirecast, X3
 
 Mainly, you’ve got:
 
-*   Switcher + Laptop
-    *   [Load in the Configuration](h.saa8t5379qfj#loading-and-saving-switcher-configuration) (if needed—in some cases you won’t have to do this)
-        *   Only do this if you are using a special replay animation (which you should be doing at most sports matches)
-*   Wirecast
-    *   [Wirecast Setup](h.k6vpdgk5q6kp#gfxwirecast)
-    *   [Restream.io and output settings](h.saa8t5379qfj#restreamio)
-    *   [Titler setup](h.saa8t5379qfj#titler)
-*   Replay
-    *   [Setting up Replay](h.saa8t5379qfj#setup---creating-a-replay-file)
-*   HyperDeck
-    *   [Start Recording](h.saa8t5379qfj#start-a-recording)
+*   Switcher + Laptop    *   [Load in the Configuration](h.saa8t5379qfj#loading-and-saving-switcher-configuration) (if needed—in some cases you won’t have to do this)        *   Only do this if you are using a special replay animation (which you should be doing at most sports matches)*   Wirecast    *   [Wirecast Setup](h.k6vpdgk5q6kp#gfxwirecast)    *   [Restream.io and output settings](h.saa8t5379qfj#restreamio)    *   [Titler setup](h.saa8t5379qfj#titler)*   Replay    *   [Setting up Replay](h.saa8t5379qfj#setup---creating-a-replay-file)*   HyperDeck    *   [Start Recording](h.saa8t5379qfj#start-a-recording)
 
 General Layout and Case Setup
 -----------------------------
@@ -66,17 +37,7 @@ General Layout and Case Setup
 
 Going from top to bottom, the MOAC is made up of:
 
-*   {Top Shelf}
-    *   Computer Patch Panel (HDMI, USB, etc.)
-    *   Power Bar
-    *   [Hyperdeck](h.saa8t5379qfj#hyperdeck)
-*   [The Hub](h.saa8t5379qfj#the-hub)
-*   [X32](h.saa8t5379qfj#x32-audio-rack)
-*   [Wirecast (+ Graphics)](h.saa8t5379qfj#wirecast)
-*   [Network Switch](h.saa8t5379qfj#network-switch--access-point)
-*   [Replay](h.saa8t5379qfj#replay-3play-deck)
-*   Drawer
-*   [UPS (Uninterruptible Power Supply)](h.saa8t5379qfj#uninterruptible-power-supply-ups)
+*   {Top Shelf}    *   Computer Patch Panel (HDMI, USB, etc.)    *   Power Bar    *   [Hyperdeck](h.saa8t5379qfj#hyperdeck)*   [The Hub](h.saa8t5379qfj#the-hub)*   [Wirecast (+ Graphics)](h.saa8t5379qfj#wirecast)*   [Replay](h.saa8t5379qfj#replay-3play-deck)*   [UPS (Uninterruptible Power Supply)](h.saa8t5379qfj#uninterruptible-power-supply-ups)
 
 On the backside, all you need to worry about are the [patch panels](h.saa8t5379qfj#patch-panels). ![](images/image40.png)
 
@@ -88,14 +49,7 @@ The bottom patch panel is the Audio Input \[aka “Audio Patch Panel”\]. This 
 
 Peripheral to the MOAC, you have:
 
-*   Monitors (3x)
-    *   2x Wirecast
-    *   1x Replay
-    *   1x Switcher multiview
-*   Replay Control Surface
-*   The Switcher (Control Surface)
-*   Switcher Laptop (plus power cord and ethernet dongle)
-*   Various keyboards & mice (2x each, one for replay and one for wirecast/graphics)
+*   Monitors (3x)    *   2x Wirecast    *   1x Replay    *   1x Switcher multiview*   Replay Control Surface*   Switcher Laptop (plus power cord and ethernet dongle)
 
 Still-In-Room Testing - Checklist
 ---------------------------------
@@ -104,15 +58,7 @@ It’s good practice to test that the MOAC is fully functional before taking it 
 
 A good checklist is:
 
-*   Does the UPS turn on without complaints?
-*   Can you connect to every display?
-    *   Wirecast (+Graphics), Replay, Switcher Multicam
-*   Is every connection on the patch panel solid? Can you get every camera to show up on multicam?
-*   Are you getting the PROG IN video signal in wirecast?
-*   Can you create a replay file? Does the replay surface work?
-    *   Can you see replay on switcher multiview?
-    *   Can you get every camera in?
-*   Can you connect to the internet?
+*   Does the UPS turn on without complaints?*   Can you connect to every display?    *   Wirecast (+Graphics), Replay, Switcher Multicam*   Is every connection on the patch panel solid? Can you get every camera to show up on multicam?*   Can you create a replay file? Does the replay surface work?    *   Can you see replay on switcher multiview?    *   Can you get every camera in?*   Can you connect to the internet?
 
 Patch Panels
 ------------
@@ -169,29 +115,21 @@ X32 Audio Rack
 
 First, you have to set up the commentator mics. Find:
 
-*   The two headsets
-*   The two power mutes (plus their power bricks)
-*   The cable snake
-*   The audio splitter cable (XLR -> Aux)
+*   The two headsets*   The two power mutes (plus their power bricks)*   The cable snake*   The audio splitter cable (XLR -> Aux)
 
 Then:
 
-*   Plug power into the audio mutes
-*   Plug the headsets into each power mute
-*   Using XLR cables, take the direct out ports from the power mutes and plug them into ports 1 and 2 on the cable snake
-*   Ensure the power mutes are turned on (switch on back).
+*   Plug power into the audio mutes*   Plug the headsets into each power mute*   Using XLR cables, take the direct out ports from the power mutes and plug them into ports 1 and 2 on the cable snake*   Ensure the power mutes are turned on (switch on back).
 
 To get talkback to work:
 
-*   Take the cable splitter’s XLR end and plug it into port A on the cable snake (port A has pins instead of holes)
-*   Plug either aux end of the cable splitter into each of the headsets’ aux cables.
+*   Take the cable splitter’s XLR end and plug it into port A on the cable snake (port A has pins instead of holes)*   Plug either aux end of the cable splitter into each of the headsets’ aux cables.
 
 Now, route the end of the cable snake to the back of MOAC.
 
 Find:
 
-*   Black cables 1 and 2 (labeled on the end of the XLR)
-*   Red cable A
+*   Black cables 1 and 2 (labeled on the end of the XLR)*   Red cable A
 
 Plug black cables 1 and 2 into COM1 and COM2 on the back of MOAC ([audio patch panel](h.saa8t5379qfj#patch-panels)), respectively. Plug red cable A into TLKBK.
 
@@ -203,8 +141,7 @@ You should now be getting commentator audio in Wirecast (assuming that switcher
 
 For COMMENTATORS:
 
-*   On the x32 rack, use the top-left jog wheel to select the channel. (Channel mappings are labeled further to the top left)
-*   Use the fader (the jog wheel below the channel select one) to increase/decrease audio level
+*   On the x32 rack, use the top-left jog wheel to select the channel. (Channel mappings are labeled further to the top left)*   Use the fader (the jog wheel below the channel select one) to increase/decrease audio level
 
 For Ambient:
 
@@ -234,11 +171,7 @@ Titler
 
 While physically a part of Wirecast, TitlerLive is a beast of its own.
 
-*   Scoreboard
-    *   Edit title design
-    *   Creating a scoreboard
-    *   Troubleshooting in titler
-*   Scoreboard Controller
+*   Scoreboard    *   Edit title design    *   Creating a scoreboard    *   Troubleshooting in titler*   Scoreboard Controller
 
 Switcher (ATEM TV Studio Pro 4K)
 --------------------------------
@@ -251,15 +184,13 @@ To connect ATEM setup to the switcher for configuring network settings, use a [U
 
 As of December 2020, the network settings should be:
 
-*   IP Address: 10.11.8.203
-*   Subnet Mask: 255.255.255.0
-*   Gateway: 10.11.8.254
+*   IP Address: 10.11.8.203*   Subnet Mask: 255.255.255.0*   Gateway: 10.11.8.254
 
 Then, with the laptop also on the PLCS Secure network, you can launch ATEM Software Control and input the same IP Address set above to access the device.
 
 You can also configure this from the control surface menu by going to the settings tab. (Menu button on top left, scroll using the wheel next to the screen, click “set” to select the settings tab, then scroll down to the bottom of the menu.)
 
-[Video Example.](https://www.google.com/url?q=https://youtu.be/5j-ljKuCL10&sa=D&source=editors&ust=1646787088811397&usg=AOvVaw3a_hs8SKmdKdknQ0H-J2Sl)
+[Video Example.](https://www.google.com/url?q=https://youtu.be/5j-ljKuCL10&sa=D&source=editors&ust=1646791610894801&usg=AOvVaw0YwgUsyzKfI5R0w9VPLbX5)
 
 ### Loading and Saving Switcher Configuration
 
@@ -271,7 +202,7 @@ Path: (PLV Media -> Switcher -> \[Game\] -> example.xml)
 
 NOTE: It may take a few minutes for all media files to fully load. Be patient!
 
-[Video example of loading](https://www.google.com/url?q=https://youtu.be/YUu5kEANvd4&sa=D&source=editors&ust=1646787088813570&usg=AOvVaw2lNqWd2trpUrNI6SfpUjxv)
+[Video example of loading](https://www.google.com/url?q=https://youtu.be/YUu5kEANvd4&sa=D&source=editors&ust=1646791610896103&usg=AOvVaw0bsVnCGdjLD5U5lnhNQJtY)
 
 To save, simply click “File -> Save As,” and select the location to save it in. You will be presented with options of what to save, and unless if you have a specific purpose for doing otherwise, just make sure all are selected. I would recommend removing old configuration files to avoid confusion, but it is up to you what is best in your situation (at the very least, store new configurations in a sub-folder). It will take a minute or two to save.
 
@@ -313,7 +244,7 @@ To edit a macro, we have to edit our configuration file as a whole. First, [save
 
 <Op id="MacroSleep" frames="\[NUMBER OF FRAMES\]"/>
 
-You can add this in or edit the frame number at leisure. For more advanced xml editing, you can find some community documentation [here](https://www.google.com/url?q=https://github.com/imorrish/ATEMConfigSnippets&sa=D&source=editors&ust=1646787088818445&usg=AOvVaw2k-7pGNVQKXIgYRDpnteNJ).
+You can add this in or edit the frame number at leisure. For more advanced xml editing, you can find some community documentation [here](https://www.google.com/url?q=https://github.com/imorrish/ATEMConfigSnippets&sa=D&source=editors&ust=1646791610899163&usg=AOvVaw1B51-k2bOj8KQaNcLJvWMx).
 
 Once you [load the config back in](h.saa8t5379qfj#loading-and-saving-switcher-configuration), your macro will be edited.
 
@@ -323,7 +254,7 @@ Once you [load the config back in](h.saa8t5379qfj#loading-and-saving-switcher-co
 
 ### Operation
 
-[\[Playlist with all operation video examples\]](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLDdTRHGk2-VHekl2vE2OTNvZ2PZ_qt7cS&sa=D&source=editors&ust=1646787088819920&usg=AOvVaw20qaCiNHOGbtjbDnijyuu-)
+[\[Playlist with all operation video examples\]](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLDdTRHGk2-VHekl2vE2OTNvZ2PZ_qt7cS&sa=D&source=editors&ust=1646791610900009&usg=AOvVaw3MA6cOxRtIUXMdZxOmpxJG)
 
 First, ensure you have the proper switcher configuration [loaded in](h.saa8t5379qfj#loading-and-saving-switcher-configuration) for the event, and all cables are connected properly. You should have power and ethernet connected first. Use the camera output patch panel (the top one) and connect all your cameras and replay (Replay goes into CAM6 on switcher).
 
@@ -339,7 +270,7 @@ The red row is the “Program” row - it dictates what’s directly being outpu
 
 It’s fairly self-explanatory, the button labeled “1” will be Camera 1, “2” is Cam 2, etc. All other mappings can be edited and found in [configuring routing](h.saa8t5379qfj#configuring-switcher-multiview--routing). We usually have replay mapped to “Camera 6”.
 
-[Video example for program row.](https://www.google.com/url?q=https://youtu.be/pJGsH0jxYYk&sa=D&source=editors&ust=1646787088822844&usg=AOvVaw3fabaSIOU0V2vcwjNHZGb5)
+[Video example for program row.](https://www.google.com/url?q=https://youtu.be/pJGsH0jxYYk&sa=D&source=editors&ust=1646791610901168&usg=AOvVaw1ibCqbWR7McZng07Vb0qku)
 
 If you make a mistake, it goes live immediately. If you need to quickly cut away from an injury or are just setting stuff up you may use this row, but for the most part you’re going to want to use the preview row.
 
@@ -347,14 +278,13 @@ With the preview row, you get a few more options. Once you click one of the butt
 
 If you want to get more fancy, we have a few options. If you want to fade, you can either click “auto” for a smooth fade or control the transition yourself using the slider bar.
 
-[Cut Example.](https://www.google.com/url?q=https://youtu.be/Rx-1buJKa1Y&sa=D&source=editors&ust=1646787088824324&usg=AOvVaw0FWJBoaM24Iond1GiiC-7D)
+[Cut Example.](https://www.google.com/url?q=https://youtu.be/Rx-1buJKa1Y&sa=D&source=editors&ust=1646791610901742&usg=AOvVaw3qzX1NUC369qyOv6YxH5oT)
 
-[Fade Example](https://www.google.com/url?q=https://youtu.be/IHnbdENvH9c&sa=D&source=editors&ust=1646787088824808&usg=AOvVaw0sDj_fcvGLa738yUn0Bj9u)
+[Fade Example](https://www.google.com/url?q=https://youtu.be/IHnbdENvH9c&sa=D&source=editors&ust=1646791610901988&usg=AOvVaw1MeYmsPffPNO6B__ihy2JV)
 
 We use hard cuts for:
 
-*   Switching between shots in sports games
-*   \[TODO:\]
+*   Switching between shots in sports games*   \[TODO:\]
 
 We use fades for:
 
@@ -364,7 +294,7 @@ We use fades for:
 
 Assuming that you either are using a [loaded in](h.saa8t5379qfj#loading-and-saving-switcher-configuration) setup with a macro, or you’ve [created](h.saa8t5379qfj#creating-and-using-macros) a macro, all you have to do to trigger it from the control surface is hit the “macro” key (located at the rightmost side of the row above the program keys), and then hit its corresponding number. (On the row directly below that).
 
-[Macro Example.](https://www.google.com/url?q=https://youtu.be/NahRnWEBVew&sa=D&source=editors&ust=1646787088826888&usg=AOvVaw0HZzLhAsYdn3PdUL6soT4k) (The zooming in on screens indicates that you don’t have to switch to the replay camera manually—it switches for you from whatever camera you’re already on.)
+[Macro Example.](https://www.google.com/url?q=https://youtu.be/NahRnWEBVew&sa=D&source=editors&ust=1646791610902999&usg=AOvVaw1XpLDvKqzO4V83cUxroPAc) (The zooming in on screens indicates that you don’t have to switch to the replay camera manually—it switches for you from whatever camera you’re already on.)
 
 Macro 1 will usually be the replay animation, but your mileage may vary depending on what you’re streaming. Become familiar with the specific setup BEFORE the stream begins.
 
@@ -378,10 +308,7 @@ Quick rundown: If you need an audio source on, click the “on” button for its
 
 This is your audio panel. It has four major parts:
 
-*   Knobs - Turn clockwise to increase audio level, turn counterclockwise to decrease
-*   Indicators - Shows ROUGHLY the decibel level (loudness) of the audio source
-*   AFV - Not America’s Funniest Home Videos, rather, “Audio Follow Video.” This means that whenever you have the camera selected as the program output, it’s audio will be on, and whenever it isn’t it will be off.
-*   On - If this is lit up, the audio from this camera is coming through. If not, it’s not (unless AFV is on).
+*   Knobs - Turn clockwise to increase audio level, turn counterclockwise to decrease*   Indicators - Shows ROUGHLY the decibel level (loudness) of the audio source*   AFV - Not America’s Funniest Home Videos, rather, “Audio Follow Video.” This means that whenever you have the camera selected as the program output, it’s audio will be on, and whenever it isn’t it will be off.*   On - If this is lit up, the audio from this camera is coming through. If not, it’s not (unless AFV is on).
 
 You also have an indicator on the left side of the camera’s view on the multiview screen, which has a lot more detail than just the 4 bars on the mini indicators.
 

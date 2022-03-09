@@ -4,50 +4,7 @@ After Effects
 Rotoing a video (Glamour Shot 2021 cleanup)
 -------------------------------------------
 
-*   open Media Encoder
-*   open After Effects
-    *   new project
-    *   new composition
-    *   copy file name from GIF to Composition Name
-    *   set to 1920x1080
-    *   set frame rate to 59.94
-    *   set resolution to full
-    *   OK
-*   File > import > file
-    *   choose cut-down GIF > OPEN
-*   in Project window - drag video file (not the composition) down to timeline window
-*   in Timeline > R-click > rename “background”
-*   in Timeline > CMD+D to duplicate layer > rename ROTO
-*   with ROTO layer selected go up to toolbar and click on ROTO tool (dude + paintbrush)
-    *   double click on ROTO layer in Timeline with ROTO tool selected
-    *   draw a rough outline inside the player’s edges = green line
-    *   improve on pink ROTO line by adding to it = green line
-    *   improve on pink ROTO line by removing area = ALT+click = red line
-    *   once player outline is pink hit SPACE and watch for errors
-        *   make sure jersey and all of the # are selected
-        *   use PAGE UP and PAGE DOWN to move frame by frame to check details
-*   choose the COMPOSITION window in the viewer window (have had ROTO window selected)
-*   in Timeline > set background layer to 3D (check in cube box)
-    *   red/green/blue XYZ axes should appear in composition window
-        *   if you don’t see the axes toggle switches/modes button at bottom of screen
-*   in menu bar > LAYER > NEW > LIGHT
-    *   light type = parallel
-    *   intensity = 225%
-    *   change color to correct hex code
-    *   click OK
-*   in Timeline window > select parallel light layer
-    *   click and hold on name and drag between ROTO layer and background layer
-*   use HOME to go to beginning of composition
-    *   SPACE to watch again
-    *   make more detail changes
-*   watch again at full speed
-*   find end of timeline and copy timecode into
-    *   Composition > Settings > Duration
-*   Composition > Add to Media Encoder Queue
-    *   change file name from xxxxxxxx\_GIF to xxxxxxxx\_ROTO
-        *   save to correct location
-*   got to Media Encoder and start the render queue
-*   File > Save As > Rotod GIFS folder
+*   open Media Encoder*   open After Effects    *   new project    *   new composition    *   copy file name from GIF to Composition Name    *   set to 1920x1080    *   set frame rate to 59.94    *   set resolution to full    *   OK*   File > import > file    *   choose cut-down GIF > OPEN*   in Project window - drag video file (not the composition) down to timeline window*   in Timeline > CMD+D to duplicate layer > rename ROTO    *   double click on ROTO layer in Timeline with ROTO tool selected    *   draw a rough outline inside the player’s edges = green line    *   improve on pink ROTO line by adding to it = green line    *   improve on pink ROTO line by removing area = ALT+click = red line    *   once player outline is pink hit SPACE and watch for errors        *   make sure jersey and all of the # are selected        *   use PAGE UP and PAGE DOWN to move frame by frame to check details*   choose the COMPOSITION window in the viewer window (have had ROTO window selected)    *   red/green/blue XYZ axes should appear in composition window        *   if you don’t see the axes toggle switches/modes button at bottom of screen*   in menu bar > LAYER > NEW > LIGHT    *   light type = parallel    *   intensity = 225%    *   change color to correct hex code    *   click OK*   in Timeline window > select parallel light layer    *   click and hold on name and drag between ROTO layer and background layer*   use HOME to go to beginning of composition    *   SPACE to watch again    *   make more detail changes*   watch again at full speed    *   Composition > Settings > Duration*   Composition > Add to Media Encoder Queue    *   change file name from xxxxxxxx\_GIF to xxxxxxxx\_ROTO        *   save to correct location*   got to Media Encoder and start the render queue
 
 Beginner
 --------
@@ -58,18 +15,18 @@ In the Beginner section of After Effects you will learn how to use Keyframes, ap
 
 ### Keyframing
 
-Before we dive into how to set keyframes and how to add cool transitions onto them you need to know how we use keyframes and what they are used for. The specific use of a keyframe is to animate either a Effect or preset overtime. You can move an object to a different part of the composition over a specific amount of time. Watch the video [Here](https://www.google.com/url?q=https://drive.google.com/file/d/16FxaEFOHqL3FkwYwj78kSPjlF4RKJTjf/view?usp%3Dsharing&sa=D&source=editors&ust=1646787088696986&usg=AOvVaw3wwy3mWRUaon6hUdYeZ1V7)! Showing how to make simple keyframes to change size position and rotation, if you want to follow along watch the keyboard overlay!
+Before we dive into how to set keyframes and how to add cool transitions onto them you need to know how we use keyframes and what they are used for. The specific use of a keyframe is to animate either a Effect or preset overtime. You can move an object to a different part of the composition over a specific amount of time. Watch the video [Here](https://www.google.com/url?q=https://drive.google.com/file/d/16FxaEFOHqL3FkwYwj78kSPjlF4RKJTjf/view?usp%3Dsharing&sa=D&source=editors&ust=1646791610839672&usg=AOvVaw1ypUGofMe-7QI_L27I5LBr)! Showing how to make simple keyframes to change size position and rotation, if you want to follow along watch the keyboard overlay!
 
 ### Rotation keyframing
 
-Above i showed you general Keyframing for everything, this one will specifically be based on rotation of objects shapes etc. Follow along [here](https://www.google.com/url?q=https://drive.google.com/file/d/1N0ZW3AjIYJMnCPE4o-1nEFk68wbwPvAM/view?usp%3Dsharing&sa=D&source=editors&ust=1646787088697926&usg=AOvVaw17LwFhn0bYk1w4EJPdv94g) to learn more about rotation.
+Above i showed you general Keyframing for everything, this one will specifically be based on rotation of objects shapes etc. Follow along [here](https://www.google.com/url?q=https://drive.google.com/file/d/1N0ZW3AjIYJMnCPE4o-1nEFk68wbwPvAM/view?usp%3Dsharing&sa=D&source=editors&ust=1646791610840577&usg=AOvVaw2EpuM7MgIFFJAp3HSkgDRI) to learn more about rotation.
 
 Intermediate
 ------------
 
 ### About
 
-[Here](https://www.google.com/url?q=https://drive.google.com/file/d/12H3kdSekXKsddSTmfBt0R3vQ9IlrQI4z/view?usp%3Dsharing&sa=D&source=editors&ust=1646787088698585&usg=AOvVaw1wQDy0Naf4s3Bw8062Pbq3) i will show you how to make Text using saber Plugin as well as using different aspects of the effect as well.
+[Here](https://www.google.com/url?q=https://drive.google.com/file/d/12H3kdSekXKsddSTmfBt0R3vQ9IlrQI4z/view?usp%3Dsharing&sa=D&source=editors&ust=1646791610841120&usg=AOvVaw01UnNPjtej_zOmSa6Mel0v) i will show you how to make Text using saber Plugin as well as using different aspects of the effect as well.
 
 Presets in Saber- you have a wide variety of presets that can be used inside the one effect itself where you can change the size, color, texture and or the way the effect moves. Using the keyframe watch located in the corner you can change the Intensity glow color, glow bias and glow size over time. you have the ability to millions of different possibilities once you are able to understand how keyframes work.
 
@@ -92,19 +49,19 @@ Resources
 
 Card template- M:\\PLVMediaGuide\\AfterEffects\\Card Template
 
-[Saber](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJ_oT9erINxA&sa=D&source=editors&ust=1646787088701241&usg=AOvVaw0mXsr3Sm51EkVEu8OwrdeM)
+[Saber](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJ_oT9erINxA&sa=D&source=editors&ust=1646791610842293&usg=AOvVaw3JHcekuWHrM15OYRILqNQU)
 
 \-How to use saber plugin
 
-[Glitch Effect](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg99TD5ZTKEg&sa=D&source=editors&ust=1646787088702016&usg=AOvVaw0mWZh2Zw58kDhvN16kZFEo)
+[Glitch Effect](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg99TD5ZTKEg&sa=D&source=editors&ust=1646791610842679&usg=AOvVaw32t3oLZIrDRgrvRKHjT2wv)
 
 \-How to make your own glitch effect from scratch
 
-[Logo Effects](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dq6TMY76KPX8&sa=D&source=editors&ust=1646787088702717&usg=AOvVaw3G_CHkhXgQxus2k2vRS0T2)
+[Logo Effects](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dq6TMY76KPX8&sa=D&source=editors&ust=1646791610843020&usg=AOvVaw3h9a1wjpcHWVvCAq7dIEc-)
 
 \-How to make cool animations with your logos.
 
-[Signature Tracing](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrUyTt2d3MIA&sa=D&source=editors&ust=1646787088703477&usg=AOvVaw3QfSrZN42Y7i3PoManQDSU)
+[Signature Tracing](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrUyTt2d3MIA&sa=D&source=editors&ust=1646791610843377&usg=AOvVaw1b1jhHK3OHfFKRBaZq4e7k)
 
 \-How to do the Autograph trace effect from the Card Template
 

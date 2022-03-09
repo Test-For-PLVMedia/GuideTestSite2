@@ -3,8 +3,7 @@ Video
 
 Links:
 
-*   [Premiere Pro Section](#h.vdhdrgfuovqo)
-*   [After Effects Section](h.deagn8ol99gl)
+*   [Premiere Pro Section](#h.vdhdrgfuovqo)*   [After Effects Section](h.deagn8ol99gl)
 
 Formats
 -------

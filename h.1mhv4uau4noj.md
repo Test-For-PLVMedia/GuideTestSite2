@@ -19,14 +19,7 @@ What’s a keyframe?
 Installing a Preset into Premiere
 ---------------------------------
 
-*   Install desired preset off of Google
-*   Move download into PLV Media>Video Copilot Downloads>Premiere Presets
-*   Unzip the file and create a new folder with all of its contents
-*   Open Premiere
-*   Go the the Effects tab
-*   Right-click on the folder with a star named “Presets” and select ‘Import Presets’
-*   Go to PLV Media>Video Copilot Downloads>Premiere Presets>\[Preset Folder\]
-*   Select the PRFPSET File and click Open
+*   Install desired preset off of Google*   Move download into PLV Media>Video Copilot Downloads>Premiere Presets*   Unzip the file and create a new folder with all of its contents*   Open Premiere*   Go the the Effects tab*   Right-click on the folder with a star named “Presets” and select ‘Import Presets’*   Go to PLV Media>Video Copilot Downloads>Premiere Presets>\[Preset Folder\]*   Select the PRFPSET File and click Open
 
 Multicam Setup
 --------------
@@ -44,17 +37,7 @@ Before you even begin editing, remember to set up a clap, or a sync, when filmin
 Adding Music (Outside of Storyblocks)
 -------------------------------------
 
-*   Open Google/Safari
-*   Go to Youtube
-*   Look for ‘Copyright free’ music that fits your theme on Youtube
-*   Copy the link to the music of your choice
-*   Open a new tab
-*   Search ‘youtube to mp3 converter’
-*   Find the first link that works
-*   Paste the Youtube link into the converter and click Okay or Convert
-*   Download the mp3
-*   Move the file from ‘Downloads’ to your folder in the server
-*   Import the music into your premiere project
+*   Open Google/Safari*   Go to Youtube*   Look for ‘Copyright free’ music that fits your theme on Youtube*   Copy the link to the music of your choice*   Open a new tab*   Search ‘youtube to mp3 converter’*   Find the first link that works*   Download the mp3*   Move the file from ‘Downloads’ to your folder in the server
 
 ![](images/image93.png)
 
