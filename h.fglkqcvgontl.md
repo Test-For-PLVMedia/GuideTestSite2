@@ -10,7 +10,12 @@ Teleprompter
 
 You need
 
-*   Prompter*   Teleprompter Tripod*   Tripod Dolly*   Camera*   Power Cable*   Display Cable (& Adaptors, where applicable)
+*   Prompter
+*   Teleprompter Tripod
+*   Tripod Dolly
+*   Camera
+*   Power Cable
+*   Display Cable (& Adaptors, where applicable)
 
 #### Connecting the Display
 

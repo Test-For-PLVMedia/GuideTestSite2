@@ -16,7 +16,26 @@ It’s up to the stream producer how they want to set it up, but effectively jus
 
 In total, you need to wire up:
 
-*   UPS    *   It’s the main power cable coming out the back of the MOAC. Plug it into the wall.*   [Network](h.saa8t5379qfj#network-switch--access-point) (Link to images and further explanation)    *   Taking the building’s ethernet from a wall, plug it into the WAN1 port on the front.*   Wirecast    *   HDMI Connections are on the computer patch panel, marked in yellow as “WC”    *   USB (mouse and keyboard) are marked on the computer patch panel.    *   All video connections are handled through the hub. No setup or work needed.*   Replay    *   HDMI Connections are on the computer patch panel, marked in yellow as “RPLY”    *   USB (mouse and keyboard) are marked on the computer patch panel.    *   The Control Surface also plugs in through USB. (This handles power & data)    *   All video connections are handled through the hub. No setup or work needed.*   Switcher    *   The control surface uses the same cord as monitors do for power.    *   HDMI is onboard the control surface, plug it directly into the monitor.    *   Use the SDI coming from the output patch panel to plug in cameras.    *   Switcher control surface’s Program Out goes to the input patch panel’s “SW IN”*   [X32](h.saa8t5379qfj#setup) (Audio, click link for detailed setup)    *   Connect audio to the back of the MOAC, using the audio patch panel.
+*   UPS
+    *   It’s the main power cable coming out the back of the MOAC. Plug it into the wall.
+*   [Network](h.saa8t5379qfj#network-switch--access-point) (Link to images and further explanation)
+    *   Taking the building’s ethernet from a wall, plug it into the WAN1 port on the front.
+*   Wirecast
+    *   HDMI Connections are on the computer patch panel, marked in yellow as “WC”
+    *   USB (mouse and keyboard) are marked on the computer patch panel.
+    *   All video connections are handled through the hub. No setup or work needed.
+*   Replay
+    *   HDMI Connections are on the computer patch panel, marked in yellow as “RPLY”
+    *   USB (mouse and keyboard) are marked on the computer patch panel.
+    *   The Control Surface also plugs in through USB. (This handles power & data)
+    *   All video connections are handled through the hub. No setup or work needed.
+*   Switcher
+    *   The control surface uses the same cord as monitors do for power.
+    *   HDMI is onboard the control surface, plug it directly into the monitor.
+    *   Use the SDI coming from the output patch panel to plug in cameras.
+    *   Switcher control surface’s Program Out goes to the input patch panel’s “SW IN”
+*   [X32](h.saa8t5379qfj#setup) (Audio, click link for detailed setup)
+    *   Connect audio to the back of the MOAC, using the audio patch panel.
 
 You’ll also need to [turn on the UPS](h.saa8t5379qfj#turning-on).
 
@@ -28,7 +47,17 @@ Once everything is plugged in, ensure that everything else (replay, wirecast, X3
 
 Mainly, you’ve got:
 
-*   Switcher + Laptop    *   [Load in the Configuration](h.saa8t5379qfj#loading-and-saving-switcher-configuration) (if needed—in some cases you won’t have to do this)        *   Only do this if you are using a special replay animation (which you should be doing at most sports matches)*   Wirecast    *   [Wirecast Setup](h.k6vpdgk5q6kp#gfxwirecast)    *   [Restream.io and output settings](h.saa8t5379qfj#restreamio)    *   [Titler setup](h.saa8t5379qfj#titler)*   Replay    *   [Setting up Replay](h.saa8t5379qfj#setup---creating-a-replay-file)*   HyperDeck    *   [Start Recording](h.saa8t5379qfj#start-a-recording)
+*   Switcher + Laptop
+    *   [Load in the Configuration](h.saa8t5379qfj#loading-and-saving-switcher-configuration) (if needed—in some cases you won’t have to do this)
+        *   Only do this if you are using a special replay animation (which you should be doing at most sports matches)
+*   Wirecast
+    *   [Wirecast Setup](h.k6vpdgk5q6kp#gfxwirecast)
+    *   [Restream.io and output settings](h.saa8t5379qfj#restreamio)
+    *   [Titler setup](h.saa8t5379qfj#titler)
+*   Replay
+    *   [Setting up Replay](h.saa8t5379qfj#setup---creating-a-replay-file)
+*   HyperDeck
+    *   [Start Recording](h.saa8t5379qfj#start-a-recording)
 
 General Layout and Case Setup
 -----------------------------
@@ -37,7 +66,14 @@ General Layout and Case Setup
 
 Going from top to bottom, the MOAC is made up of:
 
-*   {Top Shelf}    *   Computer Patch Panel (HDMI, USB, etc.)    *   Power Bar    *   [Hyperdeck](h.saa8t5379qfj#hyperdeck)*   [The Hub](h.saa8t5379qfj#the-hub)*   [Wirecast (+ Graphics)](h.saa8t5379qfj#wirecast)*   [Replay](h.saa8t5379qfj#replay-3play-deck)*   [UPS (Uninterruptible Power Supply)](h.saa8t5379qfj#uninterruptible-power-supply-ups)
+*   {Top Shelf}
+    *   Computer Patch Panel (HDMI, USB, etc.)
+    *   Power Bar
+    *   [Hyperdeck](h.saa8t5379qfj#hyperdeck)
+*   [The Hub](h.saa8t5379qfj#the-hub)
+*   [Wirecast (+ Graphics)](h.saa8t5379qfj#wirecast)
+*   [Replay](h.saa8t5379qfj#replay-3play-deck)
+*   [UPS (Uninterruptible Power Supply)](h.saa8t5379qfj#uninterruptible-power-supply-ups)
 
 On the backside, all you need to worry about are the [patch panels](h.saa8t5379qfj#patch-panels). ![](images/image40.png)
 
@@ -49,7 +85,12 @@ The bottom patch panel is the Audio Input \[aka “Audio Patch Panel”\]. This 
 
 Peripheral to the MOAC, you have:
 
-*   Monitors (3x)    *   2x Wirecast    *   1x Replay    *   1x Switcher multiview*   Replay Control Surface*   Switcher Laptop (plus power cord and ethernet dongle)
+*   Monitors (3x)
+    *   2x Wirecast
+    *   1x Replay
+    *   1x Switcher multiview
+*   Replay Control Surface
+*   Switcher Laptop (plus power cord and ethernet dongle)
 
 Still-In-Room Testing - Checklist
 ---------------------------------
@@ -58,7 +99,14 @@ It’s good practice to test that the MOAC is fully functional before taking it 
 
 A good checklist is:
 
-*   Does the UPS turn on without complaints?*   Can you connect to every display?    *   Wirecast (+Graphics), Replay, Switcher Multicam*   Is every connection on the patch panel solid? Can you get every camera to show up on multicam?*   Can you create a replay file? Does the replay surface work?    *   Can you see replay on switcher multiview?    *   Can you get every camera in?*   Can you connect to the internet?
+*   Does the UPS turn on without complaints?
+*   Can you connect to every display?
+    *   Wirecast (+Graphics), Replay, Switcher Multicam
+*   Is every connection on the patch panel solid? Can you get every camera to show up on multicam?
+*   Can you create a replay file? Does the replay surface work?
+    *   Can you see replay on switcher multiview?
+    *   Can you get every camera in?
+*   Can you connect to the internet?
 
 Patch Panels
 ------------
@@ -115,21 +163,29 @@ X32 Audio Rack
 
 First, you have to set up the commentator mics. Find:
 
-*   The two headsets*   The two power mutes (plus their power bricks)*   The cable snake*   The audio splitter cable (XLR -> Aux)
+*   The two headsets
+*   The two power mutes (plus their power bricks)
+*   The cable snake
+*   The audio splitter cable (XLR -> Aux)
 
 Then:
 
-*   Plug power into the audio mutes*   Plug the headsets into each power mute*   Using XLR cables, take the direct out ports from the power mutes and plug them into ports 1 and 2 on the cable snake*   Ensure the power mutes are turned on (switch on back).
+*   Plug power into the audio mutes
+*   Plug the headsets into each power mute
+*   Using XLR cables, take the direct out ports from the power mutes and plug them into ports 1 and 2 on the cable snake
+*   Ensure the power mutes are turned on (switch on back).
 
 To get talkback to work:
 
-*   Take the cable splitter’s XLR end and plug it into port A on the cable snake (port A has pins instead of holes)*   Plug either aux end of the cable splitter into each of the headsets’ aux cables.
+*   Take the cable splitter’s XLR end and plug it into port A on the cable snake (port A has pins instead of holes)
+*   Plug either aux end of the cable splitter into each of the headsets’ aux cables.
 
 Now, route the end of the cable snake to the back of MOAC.
 
 Find:
 
-*   Black cables 1 and 2 (labeled on the end of the XLR)*   Red cable A
+*   Black cables 1 and 2 (labeled on the end of the XLR)
+*   Red cable A
 
 Plug black cables 1 and 2 into COM1 and COM2 on the back of MOAC ([audio patch panel](h.saa8t5379qfj#patch-panels)), respectively. Plug red cable A into TLKBK.
 
@@ -141,7 +197,8 @@ You should now be getting commentator audio in Wirecast (assuming that switcher
 
 For COMMENTATORS:
 
-*   On the x32 rack, use the top-left jog wheel to select the channel. (Channel mappings are labeled further to the top left)*   Use the fader (the jog wheel below the channel select one) to increase/decrease audio level
+*   On the x32 rack, use the top-left jog wheel to select the channel. (Channel mappings are labeled further to the top left)
+*   Use the fader (the jog wheel below the channel select one) to increase/decrease audio level
 
 For Ambient:
 
@@ -171,7 +228,11 @@ Titler
 
 While physically a part of Wirecast, TitlerLive is a beast of its own.
 
-*   Scoreboard    *   Edit title design    *   Creating a scoreboard    *   Troubleshooting in titler*   Scoreboard Controller
+*   Scoreboard
+    *   Edit title design
+    *   Creating a scoreboard
+    *   Troubleshooting in titler
+*   Scoreboard Controller
 
 Switcher (ATEM TV Studio Pro 4K)
 --------------------------------
@@ -184,7 +245,9 @@ To connect ATEM setup to the switcher for configuring network settings, use a [U
 
 As of December 2020, the network settings should be:
 
-*   IP Address: 10.11.8.203*   Subnet Mask: 255.255.255.0*   Gateway: 10.11.8.254
+*   IP Address: 10.11.8.203
+*   Subnet Mask: 255.255.255.0
+*   Gateway: 10.11.8.254
 
 Then, with the laptop also on the PLCS Secure network, you can launch ATEM Software Control and input the same IP Address set above to access the device.
 
@@ -284,7 +347,8 @@ If you want to get more fancy, we have a few options. If you want to fade, you c
 
 We use hard cuts for:
 
-*   Switching between shots in sports games*   \[TODO:\]
+*   Switching between shots in sports games
+*   \[TODO:\]
 
 We use fades for:
 
@@ -308,7 +372,10 @@ Quick rundown: If you need an audio source on, click the “on” button for its
 
 This is your audio panel. It has four major parts:
 
-*   Knobs - Turn clockwise to increase audio level, turn counterclockwise to decrease*   Indicators - Shows ROUGHLY the decibel level (loudness) of the audio source*   AFV - Not America’s Funniest Home Videos, rather, “Audio Follow Video.” This means that whenever you have the camera selected as the program output, it’s audio will be on, and whenever it isn’t it will be off.*   On - If this is lit up, the audio from this camera is coming through. If not, it’s not (unless AFV is on).
+*   Knobs - Turn clockwise to increase audio level, turn counterclockwise to decrease
+*   Indicators - Shows ROUGHLY the decibel level (loudness) of the audio source
+*   AFV - Not America’s Funniest Home Videos, rather, “Audio Follow Video.” This means that whenever you have the camera selected as the program output, it’s audio will be on, and whenever it isn’t it will be off.
+*   On - If this is lit up, the audio from this camera is coming through. If not, it’s not (unless AFV is on).
 
 You also have an indicator on the left side of the camera’s view on the multiview screen, which has a lot more detail than just the 4 bars on the mini indicators.
 

@@ -25,19 +25,23 @@ Colors
 
 Monarchs HEX codes
 
-*   Maroon: 660600*   Gold: f5c518
+*   Maroon: 660600
+*   Gold: f5c518
 
 Titan HEX codes
 
-*   Blue: 003466*   Silver: c9c9c9
+*   Blue: 003466
+*   Silver: c9c9c9
 
 PLV Media HEX codes
 
-*   Grey: 282828*   White: ffffff
+*   Grey: 282828
+*   White: ffffff
 
 PLCS HEX codes
 
-*   Gold: fecb38*   Grey: 8e8e8e
+*   Gold: fecb38
+*   Grey: 8e8e8e
 
 Why HEX codes? 
 ---------------
@@ -67,7 +71,9 @@ I can talk about color forever, but this is essentially all you need to know to 
 
 If you want to learn more, start here:
 
-*   [99design](https://www.google.com/url?q=https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/&sa=D&source=editors&ust=1646791610823853&usg=AOvVaw2o-6sPXyFTRIeEzkO8sFIY)*   [BlackBearDesign](https://www.google.com/url?q=https://www.blackbeardesign.com/blog/graphic-designers/understanding-color-the-meaning-of-color/&sa=D&source=editors&ust=1646791610824225&usg=AOvVaw1sPSe6Ts6hUkZMdTDXddiN)*   [Beginning Graphic Design](https://www.google.com/url?q=https://edu.gcfglobal.org/en/beginning-graphic-design/color/1/&sa=D&source=editors&ust=1646791610824602&usg=AOvVaw3PqoEV9T7QvcflXWDVRa4Z)
+*   [99design](https://www.google.com/url?q=https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/&sa=D&source=editors&ust=1646791610823853&usg=AOvVaw2o-6sPXyFTRIeEzkO8sFIY)
+*   [BlackBearDesign](https://www.google.com/url?q=https://www.blackbeardesign.com/blog/graphic-designers/understanding-color-the-meaning-of-color/&sa=D&source=editors&ust=1646791610824225&usg=AOvVaw1sPSe6Ts6hUkZMdTDXddiN)
+*   [Beginning Graphic Design](https://www.google.com/url?q=https://edu.gcfglobal.org/en/beginning-graphic-design/color/1/&sa=D&source=editors&ust=1646791610824602&usg=AOvVaw3PqoEV9T7QvcflXWDVRa4Z)
 
 Illustrator 
 ------------

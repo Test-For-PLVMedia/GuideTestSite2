@@ -4,7 +4,45 @@ After Effects
 Rotoing a video (Glamour Shot 2021 cleanup)
 -------------------------------------------
 
-*   open Media Encoder*   open After Effects    *   new project    *   new composition    *   copy file name from GIF to Composition Name    *   set to 1920x1080    *   set frame rate to 59.94    *   set resolution to full    *   OK*   File > import > file    *   choose cut-down GIF > OPEN*   in Project window - drag video file (not the composition) down to timeline window*   in Timeline > CMD+D to duplicate layer > rename ROTO    *   double click on ROTO layer in Timeline with ROTO tool selected    *   draw a rough outline inside the player’s edges = green line    *   improve on pink ROTO line by adding to it = green line    *   improve on pink ROTO line by removing area = ALT+click = red line    *   once player outline is pink hit SPACE and watch for errors        *   make sure jersey and all of the # are selected        *   use PAGE UP and PAGE DOWN to move frame by frame to check details*   choose the COMPOSITION window in the viewer window (have had ROTO window selected)    *   red/green/blue XYZ axes should appear in composition window        *   if you don’t see the axes toggle switches/modes button at bottom of screen*   in menu bar > LAYER > NEW > LIGHT    *   light type = parallel    *   intensity = 225%    *   change color to correct hex code    *   click OK*   in Timeline window > select parallel light layer    *   click and hold on name and drag between ROTO layer and background layer*   use HOME to go to beginning of composition    *   SPACE to watch again    *   make more detail changes*   watch again at full speed    *   Composition > Settings > Duration*   Composition > Add to Media Encoder Queue    *   change file name from xxxxxxxx\_GIF to xxxxxxxx\_ROTO        *   save to correct location*   got to Media Encoder and start the render queue
+*   open Media Encoder
+*   open After Effects
+    *   new project
+    *   new composition
+    *   copy file name from GIF to Composition Name
+    *   set to 1920x1080
+    *   set frame rate to 59.94
+    *   set resolution to full
+    *   OK
+*   File > import > file
+    *   choose cut-down GIF > OPEN
+*   in Project window - drag video file (not the composition) down to timeline window
+*   in Timeline > CMD+D to duplicate layer > rename ROTO
+    *   double click on ROTO layer in Timeline with ROTO tool selected
+    *   draw a rough outline inside the player’s edges = green line
+    *   improve on pink ROTO line by adding to it = green line
+    *   improve on pink ROTO line by removing area = ALT+click = red line
+    *   once player outline is pink hit SPACE and watch for errors
+        *   make sure jersey and all of the # are selected
+        *   use PAGE UP and PAGE DOWN to move frame by frame to check details
+*   choose the COMPOSITION window in the viewer window (have had ROTO window selected)
+    *   red/green/blue XYZ axes should appear in composition window
+        *   if you don’t see the axes toggle switches/modes button at bottom of screen
+*   in menu bar > LAYER > NEW > LIGHT
+    *   light type = parallel
+    *   intensity = 225%
+    *   change color to correct hex code
+    *   click OK
+*   in Timeline window > select parallel light layer
+    *   click and hold on name and drag between ROTO layer and background layer
+*   use HOME to go to beginning of composition
+    *   SPACE to watch again
+    *   make more detail changes
+*   watch again at full speed
+    *   Composition > Settings > Duration
+*   Composition > Add to Media Encoder Queue
+    *   change file name from xxxxxxxx\_GIF to xxxxxxxx\_ROTO
+        *   save to correct location
+*   got to Media Encoder and start the render queue
 
 Beginner
 --------
