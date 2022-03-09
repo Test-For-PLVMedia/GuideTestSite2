@@ -88,6 +88,7 @@ Colors all in HEX format.
 *   Lincoln High
     *   Red: #DA001E
     *   Black: #00000
+    
 *   Lincoln North Star Navigators
     *   Blue: #000070
     *   Maroon: #880030

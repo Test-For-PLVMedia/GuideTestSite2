@@ -11,6 +11,7 @@ Teleprompter
 You need
 
 *   Prompter
+
 *   Teleprompter Tripod
 *   Tripod Dolly
 *   Camera

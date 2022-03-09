@@ -115,46 +115,57 @@ At the beginning of the football season there are many things to do that can be 
 #### Communications
 
 *   Email setup
+    
     *   Being the video board producer means that over your time in this role you will make hundreds of emails to important people and it is key that emails are properly written
         *   When writing an email always have some sort of introductory statement at the top whether that be something like Good Afternoon, Good Morning, or something more specific like Hello Mr. Hurst or just Mr. Hurst depending on the information in the message
         *   If this is your first email to someone write a introduction about who you are and the reason why you are contacting them
         *   Make sure you use correct spelling and grammar, they will not point out your mistakes, but it is a good habit to make sure things are properly typed and worded
         *   Always CC Mrs. Hoch on each email as she will be able to provide assistance in situations where you might not know the answer
+    
     *   If needed ask Mrs. Hoch for the contact list and she will share the document with you if necessary
     *   Throughout the season one of your main jobs is to keep in contact with a whole bunch of people such as, sponsors, the foundation, district communications office, district IT members, athletic offices, band directors, and coaches
     *   The Foundation - they are in charge of all of the deals with our sponsors this is very important as ads will play a vital part in the flow of the script and early job operation
         *   You should contact them before the season to see if sponsors for both the video board and the banners are the same and if they intend on using the same ads as the past year
         *   You will also contact them throughout the season to have them check over the script and make sure you have the right ad for them before each game
         *   Lastly at the end of the season you will be required to put together a sponsor report (See Sponsor Report) to send or discuss with the members of the foundation (uncertain about meeting but for sure email)
+    
     *   Sponsors - this will not be something you will have to do yearly the foundation will typically handle this for us, but if we are tasked to film new ads for some of the sponsors then you will be in constant contact with them throughout the entirety of the process
         *   As of March, 2021 the current sponsors are as follows: American Family Insurance, Gina V Physical Therapy, The Good Life, H & H, Hyvee, Jensen Tire, Midlands Place, Pinnacle Bank (Always the Monarch Titan Game Sponsor), Premier Family Medicine, Premier Waste Solutions, and the reader sponsor which is included in the script is mama’s pizza
         *   \[add info on duration and sponsors contracts\] \[attach image of sheet\]
+    
     *   District Communications - The communications team in the district will stay informed on events happening for each game whether that be a certain ad they want played or some other event going on. They must be contacte before each game to make sure that there is nothing special. Examples of videos in the past are, Teacher of the month award videos, there’s an app for that.
     *   IT Members - Not very often will you have to contact IT to fix any issues (the most common issue being the board won’t connect to the DMP), but when you do you will typically email the helpdesk and submit a ticket and they’ll get back to you as soon as possible
         *   If it is urgent get hold of Mrs. Hoch immediately as she will be able to help and if not she can direct you to Mr. Bingham or another source of information
+    
     *   Athletic Offices - This is the most important contact each week to make sure the Athletic Directors of both schools read the script for the week ex. (Monarch Home Game - Mr. Ryan, Mr. Siske; Titan Home Game - Mr. Van Ackren, Mr. Penas) Monarch Titan game both will be included and each week the athletic secretaries will be included in the emails as well Monarchs - Mr. Hoch, Titans - Mrs. Medeck
         *   Before each game there may also be more events such as senior night, homecoming, or some special sponsor (Chick-Fil-A) that we will have to make sure we have something special prepared both for the script and for a graphic on the board
         *   Also in years past we have had to do special videos for the athletic departments that they have participated in with one being My Reason Why, and another being the sportsmanship video that used to be played before the beginning of games
         *   Titans before each football game need to be contacted as they have three teacher(s) of the game that have both a spot in the script to be announced after the end of the first quarter plus a graphic that will be put up during said time
+    
     *   Coaches
         *   For football, soccer, and track make sure you email them before the specified event as they will be able to add input on what they want played at said event the logos for the team and a rundown of what is to happen
         *   At track you will need a list and order of events as well as logos for the meet as different meets will sometimes have a special logo
         *   For soccer it's fairly straight forward just ask them if there is anything  extra they would like to add to the board
+    
     *   Band directors
         *   At the beginning of the season bad directors from both schools will be asked for the name of their respective halftime show and a logo for it
         *   Titans have their own band announcer so we will not need to work them on an updated script each week, but we need to work on the timing of this next year, with that you will be in contact with Joe Homan, and Brian Johnson.
         *   When it comes to pregame scripting this is the hardest part to get right when it comes to working with the Titans, just stay patient with it
         *   Monarchs have a different process when it comes to their halftime show and pregame show, you will work with Joe Rohachik and Tim Keller to get the script correct
 *   Throughout the season you will stay in contact with all of the people listed above and get videos from a good majority of them
+    
     *   Always make sure the video has no major issues such as, black zones, frame cuts, length issues, and audio
         *   Make sure if the video is made for a specific team \[LINK H & H MONARCH AD\] it is played at a game for said team (Yes it’s been played for the rival team before)
+    
     *   From the district they usually run a district ad such as there is an app for that, this in the fall will probably be replaced with a new ad, the districts video will get played 2-3 times a game
     *   There is another video you might have to run for the district that gets played once per game and it's the teacher of the month award video contact Victoria Osterley or Stacy Hawn to get those videos
     *   From the Foundation we might get new sponsors as they have contracts they may not renew, with that being said they will either provide us with those ads or we might be asked to make one for the company, if that ends up being the case you will also work very closely with the producer of the project to make sure deadlines are met so the ad can be played at the right football game
     *   Sponsors get to play their video at one football game as the main sponsor the script will get changed to fit that games featured sponsor,
+        
         *   Featured sponsors will get their video played AT LEAST TWiCE per game with one time being during pregame, and the other preferably at half time
             *   You should try and play this ad more then twice as at the end of the year there will be a sponsor report for you to fill out and playing those videos more than the required amount looks good and makes the foundation and sponsors happy
                 *   Do not force playing those videos more than twice though if there is time for it then do it, if not then don't feel like you have to
+        
         *   Each time a feature sponsor ad, set of sponsor blurbs, stadium banner sponsor reader, or any sort of ad is played, record the time on your script. I like to write the time next to the ad on the script (ex., 6:46 next to “play sponsor blurbs” on the script) so I know which time matches with which ad.
 *   At the end of a sports season, you’ll also have to make a spreadsheet or word document logging all the times sponsor ads have been played. It’ll look like this; listing which sponsor ad played when and how many times it was played at each game. You also need to include exactly which businesses
 *   When it comes to the football season this is the most important job you have, the script if done properly allows the football game to run smoothly.
@@ -186,8 +197,10 @@ At the beginning of the football season there are many things to do that can be 
 *   Featured sponsors will get their video played at least twice per football game and the AD MUST BE PLAYED in its entirety or it will have to be run again, make sure to coordinate these times with AD’s, the announcers, and the band directors to ensure these are played properly.
 *   You should always try to play the ad more than twice because at the end of the season it will fill out the sponsor report better and make it look good and keep the sponsors and The Foundation happy.
     *   With that being said, DO NOT FORCE the ads to be played more than twice as it leads to an awkward spot if you play it during the game when there is not enough time.
+
 *   Other than featured sponsors, we have what we refer to as Sponsor Blurbs, these blurbs are to be played at least twice per game and the same applies as the features to try and play these more than just twice.
     *   These blurbs are to be played with no noise and are much longer than the features as they are 12 seconds for each sponsor we have so the video lasts something like three minutes so make sure to account the time to fit this in the script and schedule.
+
 *   The last part of the sponsors we have to cover is the Stadium banner sponsors. This is just something that you add into the script for the announcer to read twice per game. You can look at past year’s scripts for the examples on how they are put into the script.
 
 #### Scripts
